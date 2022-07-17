@@ -17,4 +17,4 @@ jobs:
           server: ${{ secrets.ftp_host }}
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
-          server-dir: htdocs/pentalobe-homolog/
+          server-dir: htdocs/pentalobe-homolog/wp-content/themes/pentalobe/
