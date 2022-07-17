@@ -1,0 +1,26 @@
+.ApColumn .block_newsletter form .btn {
+  color: #f7931e;
+  background-color: #1b1b1b;
+}
+
+.block.contact-infor.ApRawHtml a {
+  color: #f7931e;
+}
+
+.box-testimonial.style-0
+  .owl-item.active
+  .item
+  .block-carousel-image-container:before {
+  color: #ff9a52;
+}
+
+.box-testimonial.style-0
+  .owl-item.active.first
+  .item
+  .block-carousel-image-container:before,
+.box-testimonial.style-0
+  .owl-item.active.last
+  .item
+  .block-carousel-image-container:before {
+  color: #ff9a52;
+}
