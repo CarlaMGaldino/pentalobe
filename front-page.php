@@ -32,13 +32,13 @@
                   <div class="iview iview-group-61c795d292925-3">
                     <!-- SLIDE IMAGE BEGIN -->
                     <div class="slide_config"
-                      data-leo_image="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide1-h3.jpg"
+                      data-leo_image="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide1-h3-novo.jpg"
                       data-leo_pausetime="5000"
-                      data-leo_thumbnail="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide1-h3.jpg"
+                      data-leo_thumbnail="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide1-h3-novo.jpg"
                       data-leo_background="image">
                       <div class="tp-caption medium_text_white_24" data-x="240" data-y="228" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
-                        Google smart
+                        IPhone
                         <!-- LAYER TEXT END -->
 
                         <!-- LAYER IMAGE END -->
@@ -48,7 +48,7 @@
 
                       <div class="tp-caption big_white_48" data-x="240" data-y="280" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
-                        Latest & Popular <br />Brand
+                        Quer trocar seu <br />IPhone?
                         <!-- LAYER TEXT END -->
 
                         <!-- LAYER IMAGE END -->
@@ -58,8 +58,7 @@
 
                       <div class="tp-caption medium_text_white_20" data-x="240" data-y="400" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
-                        The brand comes from the google home collection
-                        2020
+                        Nós compramos e pagamos um preço justo!
                         <!-- LAYER TEXT END -->
 
                         <!-- LAYER IMAGE END -->
@@ -69,7 +68,7 @@
 
                       <div class="tp-caption btn" data-x="240" data-y="480" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
-                        Shop now
+                        Saiba mais
                         <!-- LAYER TEXT END -->
 
                         <!-- LAYER IMAGE END -->
@@ -81,13 +80,13 @@
 
                     <!-- SLIDE IMAGE BEGIN -->
                     <div class="slide_config"
-                      data-leo_image="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide3-h3.jpg"
+                      data-leo_image="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide3-h3-novo.jpg"
                       data-leo_pausetime="5000"
-                      data-leo_thumbnail="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide3-h3.jpg"
+                      data-leo_thumbnail="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide3-h3-novo.jpg"
                       data-leo_background="image">
                       <div class="tp-caption medium_text_white_24" data-x="240" data-y="228" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
-                        Google smart
+                        IPhone
                         <!-- LAYER TEXT END -->
 
                         <!-- LAYER IMAGE END -->
@@ -97,7 +96,7 @@
 
                       <div class="tp-caption big_white_48" data-x="240" data-y="280" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
-                        New smart <br />Device
+                        Quer vender seu <br />IPhone?
                         <!-- LAYER TEXT END -->
 
                         <!-- LAYER IMAGE END -->
@@ -107,8 +106,7 @@
 
                       <div class="tp-caption medium_text_white_20" data-x="240" data-y="400" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
-                        The brand comes from the google home collection
-                        2020
+                        Nós compramos, faça um orçamento
                         <!-- LAYER TEXT END -->
 
                         <!-- LAYER IMAGE END -->
@@ -118,7 +116,7 @@
 
                       <div class="tp-caption btn" data-x="240" data-y="480" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
-                        Shop now
+                        Saiba mais
                         <!-- LAYER TEXT END -->
 
                         <!-- LAYER IMAGE END -->
@@ -283,32 +281,32 @@
                   });
                   </script>
                   <div id="tab_2605763049" class="ApTabs tabs-top">
-                    <h4 class="title_block">Top products</h4>
+                    <h4 class="title_block">Top produtos</h4>
 
                     <div class="block_content">
                       <ul class="nav nav-tabs" role="tablist">
                         <li class="nav-item">
                           <a href="#tab_8786320948624889" class="nav-link form_43727572851462305" role="tab"
                             data-toggle="tab">
-                            <span>All</span>
+                            <span>Todos os produtos</span>
                           </a>
                         </li>
                         <li class="nav-item">
                           <a href="#tab_6682488626015560" class="nav-link form_5036762094777601" role="tab"
                             data-toggle="tab">
-                            <span>Audio &amp; Home</span>
+                            <span>IPhones</span>
                           </a>
                         </li>
                         <li class="nav-item">
                           <a href="#tab_8528710969805285" class="nav-link form_9322658754034848" role="tab"
                             data-toggle="tab">
-                            <span>Camera &amp; Photo</span>
+                            <span>MacBook</span>
                           </a>
                         </li>
                         <li class="nav-item">
                           <a href="#tab_2788706661262784" class="nav-link form_24461552037901645" role="tab"
                             data-toggle="tab">
-                            <span>Home &amp; Garden</span>
+                            <span>Acessórios</span>
                           </a>
                         </li>
                       </ul>
@@ -556,7 +554,8 @@
 
                                           <a href="camera-photo/2-9-charging-cradle.html#/1-size-s"
                                             class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../30-home_default/charging-cradle.jpg" alt=""
+                                            <img class="img-fluid"
+                                              src="/assets/images/iphone/Selo_EXCELENTE-900x900.jpg" alt=""
                                               data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/30-large_default/charging-cradle.jpg" />
                                             <span class="product-additional" data-idproduct="2"></span>
                                           </a>
@@ -9086,24 +9085,8 @@
                       </div>
                     </div>
                   </div>
-                  <!-- @file modules\appagebuilder\views\templates\hook\ApImage -->
-                  <div id="image-form_26802236217610865" class="block style-2 ApImage">
-                    <a href="#">
-                      <img
-                        src="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/appagebuilder/images/banner3-1.jpg"
-                        class="" title="" alt="" style="width: 100%; height: auto" loading="lazy" />
-                    </a>
-                    <div class="image_description">
-                      <div class="content">
-                        <h3 class="title-banner">
-                          Latest & Special Brands
-                        </h3>
-                        <p>
-                          <a href="#" class="btn btn-border-white" title="">Shop now</a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
+
+
                 </div>
               </div>
             </div>
@@ -9117,6 +9100,8 @@
           });
           </script>
 
+
+          <!--Seção Nossos produtos -->
           <!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
           <div class="wrapper" style="
                     background: url(<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/appagebuilder/images/image-category.jpg)
@@ -9132,7 +9117,7 @@
                   <div class="block block_carousel exclusive appagebuilder gr-category ApBlockCarousel">
                     <div class="block_content">
                       <!-- @file modules\appagebuilder\views\templates\hook\ApBlockOwlCarouselItem -->
-                      <h4 class="title_block">Busque categorias</h4>
+                      <h4 class="title_block">Nossos Produtos</h4>
                       <div class="owl-row">
                         <div class="timeline-wrapper clearfix prepare" data-item="4" data-xl="4" data-lg="3" data-md="2"
                           data-sm="2" data-m="1">
@@ -9169,18 +9154,10 @@
                             </div>
                           </div>
 
-                          <div class="timeline-parent">
-                            <div class="timeline-item">
-                              <div class="animated-background">
-                                <div class="background-masker content-top"></div>
-                                <div class="background-masker content-second-line"></div>
-                                <div class="background-masker content-third-line"></div>
-                                <div class="background-masker content-fourth-line"></div>
-                              </div>
-                            </div>
-                          </div>
+
                         </div>
                         <div id="carousel-3112878518" class="owl-carousel owl-theme owl-loading">
+
                           <div class="item">
                             <div class="block-carousel-container">
                               <div class="left-block">
@@ -9189,10 +9166,10 @@
                                   <a title="Audio &amp; Home" href="#">
                                     <div class="item-image">
                                       <img class="img-fluid lazyOwl" src="#"
-                                        data-src="/demo/at_dimita_demo/themes/at_dimita/assets/img/modules/appagebuilder/images/category-3.jpg"
+                                        data-src="<?php echo get_template_directory_uri(); ?>/assets/images/iphone/iphone-pronta.png"
                                         alt="Audio &amp; Home" />
                                     </div>
-                                    <div class="title">Audio & Home</div>
+                                    <div class="title">IPhone</div>
                                   </a>
                                 </div>
                               </div>
@@ -9207,10 +9184,10 @@
                                   <a title="Home &amp; Garden" href="#">
                                     <div class="item-image">
                                       <img class="img-fluid lazyOwl" src="#"
-                                        data-src="/demo/at_dimita_demo/themes/at_dimita/assets/img/modules/appagebuilder/images/category-2.jpg"
+                                        data-src="<?php echo get_template_directory_uri(); ?>/assets/images/iphone/macbook-pronta.png"
                                         alt="Home &amp; Garden" />
                                     </div>
-                                    <div class="title">Home & Garden</div>
+                                    <div class="title">MacBook</div>
                                   </a>
                                 </div>
                               </div>
@@ -9225,11 +9202,11 @@
                                   <a title="SmartPhone &amp; Ipad" href="#">
                                     <div class="item-image">
                                       <img class="img-fluid lazyOwl" src="#"
-                                        data-src="/demo/at_dimita_demo/themes/at_dimita/assets/img/modules/appagebuilder/images/category-4.jpg"
+                                        data-src="<?php echo get_template_directory_uri(); ?>/assets/images/iphone/apple-watch_pronta.png"
                                         alt="SmartPhone &amp; Ipad" />
                                     </div>
                                     <div class="title">
-                                      SmartPhone & Ipad
+                                      Apple Watch
                                     </div>
                                   </a>
                                 </div>
@@ -9245,10 +9222,10 @@
                                   <a title="Technologies" href="#">
                                     <div class="item-image">
                                       <img class="img-fluid lazyOwl" src="#"
-                                        data-src="/demo/at_dimita_demo/themes/at_dimita/assets/img/modules/appagebuilder/images/category-1.jpg"
+                                        data-src="<?php echo get_template_directory_uri(); ?>/assets/images/iphone/airpods-pronta.png"
                                         alt="Technologies" />
                                     </div>
-                                    <div class="title">Technologies</div>
+                                    <div class="title">Acessórios</div>
                                   </a>
                                 </div>
                               </div>
@@ -9263,51 +9240,17 @@
                                   <a title="Video &amp; Game" href="#">
                                     <div class="item-image">
                                       <img class="img-fluid lazyOwl" src="#"
-                                        data-src="/demo/at_dimita_demo/themes/at_dimita/assets/img/modules/appagebuilder/images/category-5.jpg"
+                                        data-src="<?php echo get_template_directory_uri(); ?>/assets/images/iphone/ipad-pronta.png"
                                         alt="Video &amp; Game" />
                                     </div>
-                                    <div class="title">Video & Game</div>
+                                    <div class="title">IPad</div>
                                   </a>
                                 </div>
                               </div>
                             </div>
                           </div>
 
-                          <div class="item">
-                            <div class="block-carousel-container">
-                              <div class="left-block">
-                                <div class="block-carousel-image-container image">
-                                  <div class="ap-more-info" data-id="2"></div>
-                                  <a title="Smartphone" href="#">
-                                    <div class="item-image">
-                                      <img class="img-fluid lazyOwl" src="#"
-                                        data-src="/demo/at_dimita_demo/themes/at_dimita/assets/img/modules/appagebuilder/images/category-4.jpg"
-                                        alt="Smartphone" />
-                                    </div>
-                                    <div class="title">Smartphone</div>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
 
-                          <div class="item">
-                            <div class="block-carousel-container">
-                              <div class="left-block">
-                                <div class="block-carousel-image-container image">
-                                  <div class="ap-more-info" data-id="1"></div>
-                                  <a title="Camera" href="#">
-                                    <div class="item-image">
-                                      <img class="img-fluid lazyOwl" src="#"
-                                        data-src="/demo/at_dimita_demo/themes/at_dimita/assets/img/modules/appagebuilder/images/category-3.jpg"
-                                        alt="Camera" />
-                                    </div>
-                                    <div class="title">Camera</div>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
                         </div>
                       </div>
                       <script type="text/javascript">
@@ -9387,2461 +9330,9 @@
                     $("#tab_2247719904 .nav a:eq(0)").trigger("click");
                   });
                   </script>
-                  <div id="tab_2247719904" class="ApTabs tabs-top">
-                    <h4 class="title_block">Latest Products</h4>
 
-                    <div class="block_content">
-                      <ul class="nav nav-tabs" role="tablist">
-                        <li class="nav-item">
-                          <a href="#tab_1839130442" class="nav-link form_4928702558537419" role="tab" data-toggle="tab">
-                            <span>Top Rating</span>
-                          </a>
-                        </li>
-                        <li class="nav-item">
-                          <a href="#tab_2107109075" class="nav-link form_5448131342155056" role="tab" data-toggle="tab">
-                            <span>Best Selling</span>
-                          </a>
-                        </li>
-                        <li class="nav-item">
-                          <a href="#tab_2417782087" class="nav-link form_3074235870195544" role="tab" data-toggle="tab">
-                            <span>Featured</span>
-                          </a>
-                        </li>
-                      </ul>
-                      <div class="tab-content">
-                        <!-- @file modules\appagebuilder\views\templates\hook\ApTabs -->
-                        <div id="tab_1839130442" class="tab-pane">
-                          <!-- @file modules\appagebuilder\views\templates\hook\ApProductCarousel -->
-                          <div class="block products_block exclusive appagebuilder ApProductCarousel">
-                            <div class="block_content">
-                              <!-- @file modules\appagebuilder\views\templates\hook\ProductOwlCarousel -->
-                              <div class="owl-row">
-                                <div class="timeline-wrapper clearfix prepare" data-item="3" data-xl="3" data-lg="2"
-                                  data-md="2" data-sm="2" data-m="1">
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
 
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div id="carousel-3616314935" class="owl-carousel owl-theme owl-loading plist-product">
-                                  <div class="item first">
-                                    <article class="product-miniature js-product-miniature" data-id-product="1"
-                                      data-id-product-attribute="1" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="computer-laptop/1-1-sony-e591-full-color.html#/1-size-s/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../24-home_default/sony-e591-full-color.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/24-large_default/sony-e591-full-color.jpg" />
-                                            <span class="product-additional" data-idproduct="1"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews" itemprop="aggregateRating" itemscope
-                                            itemtype="https://schema.org/AggregateRating">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star star_on"></div>
-                                                <div class="star star_on"></div>
-                                                <div class="star star_on"></div>
-                                                <div class="star star_on"></div>
-                                                <div class="star star_on"></div>
-                                                <meta itemprop="worstRating" content="0" />
-                                                <meta itemprop="ratingValue" content="5" />
-                                                <meta itemprop="bestRating" content="5" />
-                                              </div>
-                                              <meta itemprop="reviewCount" content="1" />
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="computer-laptop/1-1-sony-e591-full-color.html#/1-size-s/8-color-white">Sony
-                                              E591 Full Color</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="19.12">$19.12</span>
-                                            </span>
-
-                                            <span class="regular-price">$23.90</span>
-                                            <span class="discount-percentage">-20%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="2"
-                                      data-id-product-attribute="9" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="camera-photo/2-9-charging-cradle.html#/1-size-s"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../30-home_default/charging-cradle.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/30-large_default/charging-cradle.jpg" />
-                                            <span class="product-additional" data-idproduct="2"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="camera-photo/2-9-charging-cradle.html#/1-size-s">Charging
-                                              Cradle</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="28.72">$28.72</span>
-                                            </span>
-
-                                            <span class="regular-price">$35.90</span>
-                                            <span class="discount-percentage">-20%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="3"
-                                      data-id-product-attribute="13" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid"
-                                              src="../35-home_default/the-best-is-yet-to-come-framed-poster.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/35-large_default/the-best-is-yet-to-come-framed-poster.jpg" />
-                                            <span class="product-additional" data-idproduct="3"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm">The
-                                              best is yet to
-                                              come&#039; Framed poster</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="27.55">$27.55</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-5%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="4"
-                                      data-id-product-attribute="16" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/4-16-bluetooth-speaker-gk1.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../41-home_default/bluetooth-speaker-gk1.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/41-large_default/bluetooth-speaker-gk1.jpg" />
-                                            <span class="product-additional" data-idproduct="4"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/4-16-bluetooth-speaker-gk1.html#/19-dimension-40x60cm">Bluetooth
-                                              Speaker GK1</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="26.1">$26.10</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-10%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="5"
-                                      data-id-product-attribute="19" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/5-19-camera-logiti-s-l8910.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../47-home_default/camera-logiti-s-l8910.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/47-large_default/camera-logiti-s-l8910.jpg" />
-                                            <span class="product-additional" data-idproduct="5"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/5-19-camera-logiti-s-l8910.html#/19-dimension-40x60cm">Camera
-                                              Logiti-S L8910</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="24.65">$24.65</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-15%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="6"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/6-macbook-air-2018.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../54-home_default/macbook-air-2018.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/54-large_default/macbook-air-2018.jpg" />
-                                            <span class="product-additional" data-idproduct="6"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/6-macbook-air-2018.html">Macbook air 2018</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9.52">$9.52</span>
-                                            </span>
-
-                                            <span class="regular-price">$11.90</span>
-                                            <span class="discount-percentage">-20%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="7"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/7-mug-the-adventure-begins.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../59-home_default/mug-the-adventure-begins.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/59-large_default/mug-the-adventure-begins.jpg" />
-                                            <span class="product-additional" data-idproduct="7"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/7-mug-the-adventure-begins.html">Mug The adventure
-                                              begins</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="11.31">$11.31</span>
-                                            </span>
-
-                                            <span class="regular-price">$11.90</span>
-                                            <span class="discount-percentage">-5%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="8"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/8-sony-srs-speaker.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../65-home_default/sony-srs-speaker.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/65-large_default/sony-srs-speaker.jpg" />
-                                            <span class="product-additional" data-idproduct="8"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/8-sony-srs-speaker.html">Sony SRS Speaker</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="10.71">$10.71</span>
-                                            </span>
-
-                                            <span class="regular-price">$11.90</span>
-                                            <span class="discount-percentage">-10%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="9"
-                                      data-id-product-attribute="22" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/9-22-sony-hdr-pj440-white.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../72-home_default/sony-hdr-pj440-white.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/72-large_default/sony-hdr-pj440-white.jpg" />
-                                            <span class="product-additional" data-idproduct="9"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/9-22-sony-hdr-pj440-white.html#/8-color-white">Sony
-                                              HDR-PJ440 White</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="10"
-                                      data-id-product-attribute="24" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/10-24-quick-charge-30.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../77-home_default/quick-charge-30.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/77-large_default/quick-charge-30.jpg" />
-                                            <span class="product-additional" data-idproduct="10"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/10-24-quick-charge-30.html#/8-color-white">Quick
-                                              Charge 3.0</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="11"
-                                      data-id-product-attribute="26" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/11-26-smartwatch-a10.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../83-home_default/smartwatch-a10.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/83-large_default/smartwatch-a10.jpg" />
-                                            <span class="product-additional" data-idproduct="11"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/11-26-smartwatch-a10.html#/8-color-white">Smartwatch
-                                              A10</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="12"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/12-mouse-logiti-s.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../90-home_default/mouse-logiti-s.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/90-large_default/mouse-logiti-s.jpg" />
-                                            <span class="product-additional" data-idproduct="12"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="technologies/12-mouse-logiti-s.html">Mouse Logiti-S</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9">$9.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="13"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/13-iphone-xs-max-256gb.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../96-home_default/iphone-xs-max-256gb.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/96-large_default/iphone-xs-max-256gb.jpg" />
-                                            <span class="product-additional" data-idproduct="13"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="technologies/13-iphone-xs-max-256gb.html">iphone xs max 256gb</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9">$9.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="14"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/14-camera-white-2020.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../102-home_default/camera-white-2020.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/102-large_default/camera-white-2020.jpg" />
-                                            <span class="product-additional" data-idproduct="14"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="technologies/14-camera-white-2020.html">Camera White 2020</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9">$9.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="15"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="headphones/15-headphone-s102.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../108-home_default/headphone-s102.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/108-large_default/headphone-s102.jpg" />
-                                            <span class="product-additional" data-idproduct="15"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="headphones/15-headphone-s102.html">Headphone s102</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="35">$35.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="16"
-                                      data-id-product-attribute="28" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="headphones/16-28-smart-watch-suntek-a6.html#/22-paper_type-ruled"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../114-home_default/smart-watch-suntek-a6.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/114-large_default/smart-watch-suntek-a6.jpg" />
-                                            <span class="product-additional" data-idproduct="16"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="headphones/16-28-smart-watch-suntek-a6.html#/22-paper_type-ruled">Smart
-                                              Watch Suntek A6</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="12.9">$12.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                </div>
-                              </div>
-                              <script type="text/javascript">
-                              ap_list_functions.push(function() {
-                                if (
-                                  $("#carousel-3616314935").parents(
-                                    ".tab-pane"
-                                  ).length
-                                ) {
-                                  if (
-                                    !$("#carousel-3616314935")
-                                    .parents(".tab-pane")
-                                    .hasClass("active")
-                                  ) {
-                                    var width_owl_active_tab = $(
-                                        "#carousel-3616314935"
-                                      )
-                                      .parents(".tab-pane")
-                                      .siblings(".active")
-                                      .find(".owl-carousel")
-                                      .width();
-                                    $("#carousel-3616314935").width(
-                                      width_owl_active_tab
-                                    );
-                                  }
-                                }
-                                $("#carousel-3616314935").imagesLoaded(
-                                  function() {
-                                    $(
-                                      "#carousel-3616314935"
-                                    ).owlCarousel({
-                                      items: 3,
-                                      itemsDesktop: [1200, 2],
-                                      itemsDesktopSmall: [992, 2],
-                                      itemsTablet: [768, 2],
-                                      itemsMobile: [576, 1],
-                                      itemsCustom: false,
-                                      singleItem: false, // true : show only 1 item
-                                      itemsScaleUp: false,
-                                      slideSpeed: 200, //  change speed when drag and drop a item
-                                      paginationSpeed: 800, // change speed when go next page
-                                      autoPlay: false, // time to show each item
-                                      stopOnHover: false,
-                                      navigation: false,
-                                      navigationText: [
-                                        "&lsaquo;",
-                                        "&rsaquo;",
-                                      ],
-                                      scrollPerPage: false,
-                                      pagination: false, // show bullist
-                                      paginationNumbers: false, // show number
-                                      responsive: true,
-                                      responsiveRefreshRate: 0,
-                                      lazyLoad: false,
-                                      lazyFollow: false, // true : go to page 7th and load all images page 1...7. false : go to page 7th and load only images of page 7th
-                                      lazyEffect: "fade",
-                                      autoHeight: false,
-                                      mouseDrag: true,
-                                      touchDrag: true,
-                                      addClassActive: true,
-                                      direction: false,
-                                      afterInit: OwlLoaded,
-                                      afterAction: SetOwlCarouselFirstLast,
-                                    });
-                                  }
-                                );
-                              });
-
-                              function OwlLoaded(el) {
-                                el.removeClass("owl-loading")
-                                  .addClass("owl-loaded")
-                                  .parents(".owl-row")
-                                  .addClass("hide-loading");
-                                if (
-                                  $(el).parents(".tab-pane").length &&
-                                  !$(el)
-                                  .parents(".tab-pane")
-                                  .hasClass("active")
-                                )
-                                  el.width("100%");
-                              }
-                              </script>
-                            </div>
-                          </div>
-                        </div>
-                        <!-- @file modules\appagebuilder\views\templates\hook\ApTabs -->
-                        <div id="tab_2107109075" class="tab-pane">
-                          <!-- @file modules\appagebuilder\views\templates\hook\ApProductCarousel -->
-                          <div class="block products_block exclusive appagebuilder ApProductCarousel">
-                            <div class="block_content">
-                              <!-- @file modules\appagebuilder\views\templates\hook\ProductOwlCarousel -->
-                              <div class="owl-row">
-                                <div class="timeline-wrapper clearfix prepare" data-item="3" data-xl="3" data-lg="2"
-                                  data-md="2" data-sm="2" data-m="1">
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div id="carousel-3151254520" class="owl-carousel owl-theme owl-loading plist-product">
-                                  <div class="item first">
-                                    <article class="product-miniature js-product-miniature" data-id-product="1"
-                                      data-id-product-attribute="1" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="computer-laptop/1-1-sony-e591-full-color.html#/1-size-s/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../24-home_default/sony-e591-full-color.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/24-large_default/sony-e591-full-color.jpg" />
-                                            <span class="product-additional" data-idproduct="1"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews" itemprop="aggregateRating" itemscope
-                                            itemtype="https://schema.org/AggregateRating">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star star_on"></div>
-                                                <div class="star star_on"></div>
-                                                <div class="star star_on"></div>
-                                                <div class="star star_on"></div>
-                                                <div class="star star_on"></div>
-                                                <meta itemprop="worstRating" content="0" />
-                                                <meta itemprop="ratingValue" content="5" />
-                                                <meta itemprop="bestRating" content="5" />
-                                              </div>
-                                              <meta itemprop="reviewCount" content="1" />
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="computer-laptop/1-1-sony-e591-full-color.html#/1-size-s/8-color-white">Sony
-                                              E591 Full Color</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="19.12">$19.12</span>
-                                            </span>
-
-                                            <span class="regular-price">$23.90</span>
-                                            <span class="discount-percentage">-20%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="2"
-                                      data-id-product-attribute="9" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="camera-photo/2-9-charging-cradle.html#/1-size-s"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../30-home_default/charging-cradle.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/30-large_default/charging-cradle.jpg" />
-                                            <span class="product-additional" data-idproduct="2"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="camera-photo/2-9-charging-cradle.html#/1-size-s">Charging
-                                              Cradle</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="28.72">$28.72</span>
-                                            </span>
-
-                                            <span class="regular-price">$35.90</span>
-                                            <span class="discount-percentage">-20%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="3"
-                                      data-id-product-attribute="13" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid"
-                                              src="../35-home_default/the-best-is-yet-to-come-framed-poster.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/35-large_default/the-best-is-yet-to-come-framed-poster.jpg" />
-                                            <span class="product-additional" data-idproduct="3"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm">The
-                                              best is yet to
-                                              come&#039; Framed poster</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="27.55">$27.55</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-5%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="4"
-                                      data-id-product-attribute="16" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/4-16-bluetooth-speaker-gk1.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../41-home_default/bluetooth-speaker-gk1.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/41-large_default/bluetooth-speaker-gk1.jpg" />
-                                            <span class="product-additional" data-idproduct="4"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/4-16-bluetooth-speaker-gk1.html#/19-dimension-40x60cm">Bluetooth
-                                              Speaker GK1</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="26.1">$26.10</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-10%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="5"
-                                      data-id-product-attribute="19" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/5-19-camera-logiti-s-l8910.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../47-home_default/camera-logiti-s-l8910.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/47-large_default/camera-logiti-s-l8910.jpg" />
-                                            <span class="product-additional" data-idproduct="5"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/5-19-camera-logiti-s-l8910.html#/19-dimension-40x60cm">Camera
-                                              Logiti-S L8910</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="24.65">$24.65</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-15%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="6"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/6-macbook-air-2018.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../54-home_default/macbook-air-2018.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/54-large_default/macbook-air-2018.jpg" />
-                                            <span class="product-additional" data-idproduct="6"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/6-macbook-air-2018.html">Macbook air 2018</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9.52">$9.52</span>
-                                            </span>
-
-                                            <span class="regular-price">$11.90</span>
-                                            <span class="discount-percentage">-20%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="7"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/7-mug-the-adventure-begins.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../59-home_default/mug-the-adventure-begins.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/59-large_default/mug-the-adventure-begins.jpg" />
-                                            <span class="product-additional" data-idproduct="7"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/7-mug-the-adventure-begins.html">Mug The adventure
-                                              begins</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="11.31">$11.31</span>
-                                            </span>
-
-                                            <span class="regular-price">$11.90</span>
-                                            <span class="discount-percentage">-5%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="8"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/8-sony-srs-speaker.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../65-home_default/sony-srs-speaker.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/65-large_default/sony-srs-speaker.jpg" />
-                                            <span class="product-additional" data-idproduct="8"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/8-sony-srs-speaker.html">Sony SRS Speaker</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="10.71">$10.71</span>
-                                            </span>
-
-                                            <span class="regular-price">$11.90</span>
-                                            <span class="discount-percentage">-10%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="9"
-                                      data-id-product-attribute="22" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/9-22-sony-hdr-pj440-white.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../72-home_default/sony-hdr-pj440-white.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/72-large_default/sony-hdr-pj440-white.jpg" />
-                                            <span class="product-additional" data-idproduct="9"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/9-22-sony-hdr-pj440-white.html#/8-color-white">Sony
-                                              HDR-PJ440 White</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="10"
-                                      data-id-product-attribute="24" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/10-24-quick-charge-30.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../77-home_default/quick-charge-30.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/77-large_default/quick-charge-30.jpg" />
-                                            <span class="product-additional" data-idproduct="10"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/10-24-quick-charge-30.html#/8-color-white">Quick
-                                              Charge 3.0</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="11"
-                                      data-id-product-attribute="26" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/11-26-smartwatch-a10.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../83-home_default/smartwatch-a10.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/83-large_default/smartwatch-a10.jpg" />
-                                            <span class="product-additional" data-idproduct="11"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/11-26-smartwatch-a10.html#/8-color-white">Smartwatch
-                                              A10</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="12"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/12-mouse-logiti-s.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../90-home_default/mouse-logiti-s.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/90-large_default/mouse-logiti-s.jpg" />
-                                            <span class="product-additional" data-idproduct="12"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="technologies/12-mouse-logiti-s.html">Mouse Logiti-S</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9">$9.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                </div>
-                              </div>
-                              <script type="text/javascript">
-                              ap_list_functions.push(function() {
-                                if (
-                                  $("#carousel-3151254520").parents(
-                                    ".tab-pane"
-                                  ).length
-                                ) {
-                                  if (
-                                    !$("#carousel-3151254520")
-                                    .parents(".tab-pane")
-                                    .hasClass("active")
-                                  ) {
-                                    var width_owl_active_tab = $(
-                                        "#carousel-3151254520"
-                                      )
-                                      .parents(".tab-pane")
-                                      .siblings(".active")
-                                      .find(".owl-carousel")
-                                      .width();
-                                    $("#carousel-3151254520").width(
-                                      width_owl_active_tab
-                                    );
-                                  }
-                                }
-                                $("#carousel-3151254520").imagesLoaded(
-                                  function() {
-                                    $(
-                                      "#carousel-3151254520"
-                                    ).owlCarousel({
-                                      items: 3,
-                                      itemsDesktop: [1200, 2],
-                                      itemsDesktopSmall: [992, 2],
-                                      itemsTablet: [768, 2],
-                                      itemsMobile: [576, 1],
-                                      itemsCustom: false,
-                                      singleItem: false, // true : show only 1 item
-                                      itemsScaleUp: false,
-                                      slideSpeed: 200, //  change speed when drag and drop a item
-                                      paginationSpeed: 800, // change speed when go next page
-                                      autoPlay: false, // time to show each item
-                                      stopOnHover: false,
-                                      navigation: false,
-                                      navigationText: [
-                                        "&lsaquo;",
-                                        "&rsaquo;",
-                                      ],
-                                      scrollPerPage: false,
-                                      pagination: false, // show bullist
-                                      paginationNumbers: false, // show number
-                                      responsive: true,
-                                      responsiveRefreshRate: 0,
-                                      lazyLoad: false,
-                                      lazyFollow: false, // true : go to page 7th and load all images page 1...7. false : go to page 7th and load only images of page 7th
-                                      lazyEffect: "fade",
-                                      autoHeight: false,
-                                      mouseDrag: true,
-                                      touchDrag: true,
-                                      addClassActive: true,
-                                      direction: false,
-                                      afterInit: OwlLoaded,
-                                      afterAction: SetOwlCarouselFirstLast,
-                                    });
-                                  }
-                                );
-                              });
-
-                              function OwlLoaded(el) {
-                                el.removeClass("owl-loading")
-                                  .addClass("owl-loaded")
-                                  .parents(".owl-row")
-                                  .addClass("hide-loading");
-                                if (
-                                  $(el).parents(".tab-pane").length &&
-                                  !$(el)
-                                  .parents(".tab-pane")
-                                  .hasClass("active")
-                                )
-                                  el.width("100%");
-                              }
-                              </script>
-                            </div>
-                          </div>
-                        </div>
-                        <!-- @file modules\appagebuilder\views\templates\hook\ApTabs -->
-                        <div id="tab_2417782087" class="tab-pane">
-                          <!-- @file modules\appagebuilder\views\templates\hook\ApProductCarousel -->
-                          <div class="block products_block exclusive appagebuilder ApProductCarousel">
-                            <div class="block_content">
-                              <!-- @file modules\appagebuilder\views\templates\hook\ProductOwlCarousel -->
-                              <div class="owl-row">
-                                <div class="timeline-wrapper clearfix prepare" data-item="3" data-xl="3" data-lg="2"
-                                  data-md="2" data-sm="2" data-m="1">
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="timeline-parent">
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                    <div class="timeline-item">
-                                      <div class="animated-background">
-                                        <div class="background-masker content-top"></div>
-                                        <div class="background-masker content-second-line"></div>
-                                        <div class="background-masker content-third-line"></div>
-                                        <div class="background-masker content-fourth-line"></div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div id="carousel-3292637988" class="owl-carousel owl-theme owl-loading plist-product">
-                                  <div class="item first">
-                                    <article class="product-miniature js-product-miniature" data-id-product="2"
-                                      data-id-product-attribute="9" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="camera-photo/2-9-charging-cradle.html#/1-size-s"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../30-home_default/charging-cradle.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/30-large_default/charging-cradle.jpg" />
-                                            <span class="product-additional" data-idproduct="2"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="camera-photo/2-9-charging-cradle.html#/1-size-s">Charging
-                                              Cradle</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="28.72">$28.72</span>
-                                            </span>
-
-                                            <span class="regular-price">$35.90</span>
-                                            <span class="discount-percentage">-20%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="3"
-                                      data-id-product-attribute="13" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid"
-                                              src="../35-home_default/the-best-is-yet-to-come-framed-poster.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/35-large_default/the-best-is-yet-to-come-framed-poster.jpg" />
-                                            <span class="product-additional" data-idproduct="3"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm">The
-                                              best is yet to
-                                              come&#039; Framed poster</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="27.55">$27.55</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-5%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="4"
-                                      data-id-product-attribute="16" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/4-16-bluetooth-speaker-gk1.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../41-home_default/bluetooth-speaker-gk1.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/41-large_default/bluetooth-speaker-gk1.jpg" />
-                                            <span class="product-additional" data-idproduct="4"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/4-16-bluetooth-speaker-gk1.html#/19-dimension-40x60cm">Bluetooth
-                                              Speaker GK1</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="26.1">$26.10</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-10%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="5"
-                                      data-id-product-attribute="19" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/5-19-camera-logiti-s-l8910.html#/19-dimension-40x60cm"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../47-home_default/camera-logiti-s-l8910.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/47-large_default/camera-logiti-s-l8910.jpg" />
-                                            <span class="product-additional" data-idproduct="5"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a
-                                              href="technologies/5-19-camera-logiti-s-l8910.html#/19-dimension-40x60cm">Camera
-                                              Logiti-S L8910</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="24.65">$24.65</span>
-                                            </span>
-
-                                            <span class="regular-price">$29.00</span>
-                                            <span class="discount-percentage">-15%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="8"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/8-sony-srs-speaker.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../65-home_default/sony-srs-speaker.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/65-large_default/sony-srs-speaker.jpg" />
-                                            <span class="product-additional" data-idproduct="8"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/8-sony-srs-speaker.html">Sony SRS Speaker</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping has_discount">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="10.71">$10.71</span>
-                                            </span>
-
-                                            <span class="regular-price">$11.90</span>
-                                            <span class="discount-percentage">-10%</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="9"
-                                      data-id-product-attribute="22" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/9-22-sony-hdr-pj440-white.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../72-home_default/sony-hdr-pj440-white.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/72-large_default/sony-hdr-pj440-white.jpg" />
-                                            <span class="product-additional" data-idproduct="9"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/9-22-sony-hdr-pj440-white.html#/8-color-white">Sony
-                                              HDR-PJ440 White</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="10"
-                                      data-id-product-attribute="24" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/10-24-quick-charge-30.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../77-home_default/quick-charge-30.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/77-large_default/quick-charge-30.jpg" />
-                                            <span class="product-additional" data-idproduct="10"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/10-24-quick-charge-30.html#/8-color-white">Quick
-                                              Charge 3.0</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="11"
-                                      data-id-product-attribute="26" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="home-accessories/11-26-smartwatch-a10.html#/8-color-white"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../83-home_default/smartwatch-a10.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/83-large_default/smartwatch-a10.jpg" />
-                                            <span class="product-additional" data-idproduct="11"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="home-accessories/11-26-smartwatch-a10.html#/8-color-white">Smartwatch
-                                              A10</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="18.9">$18.90</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="12"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/12-mouse-logiti-s.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../90-home_default/mouse-logiti-s.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/90-large_default/mouse-logiti-s.jpg" />
-                                            <span class="product-additional" data-idproduct="12"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="technologies/12-mouse-logiti-s.html">Mouse Logiti-S</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9">$9.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="13"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/13-iphone-xs-max-256gb.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../96-home_default/iphone-xs-max-256gb.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/96-large_default/iphone-xs-max-256gb.jpg" />
-                                            <span class="product-additional" data-idproduct="13"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="technologies/13-iphone-xs-max-256gb.html">iphone xs max 256gb</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9">$9.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                  <div class="item">
-                                    <article class="product-miniature js-product-miniature" data-id-product="14"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="technologies/14-camera-white-2020.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../102-home_default/camera-white-2020.jpg"
-                                              alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/102-large_default/camera-white-2020.jpg" />
-                                            <span class="product-additional" data-idproduct="14"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="technologies/14-camera-white-2020.html">Camera White 2020</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="9">$9.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                    <article class="product-miniature js-product-miniature" data-id-product="15"
-                                      data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                                      <div class="thumbnail-container">
-                                        <div class="product-image">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <a href="headphones/15-headphone-s102.html"
-                                            class="thumbnail product-thumbnail">
-                                            <img class="img-fluid" src="../108-home_default/headphone-s102.jpg" alt=""
-                                              data-full-size-image-url="https://rubiktheme.com/demo/at_dimita_demo/108-large_default/headphone-s102.jpg" />
-                                            <span class="product-additional" data-idproduct="15"></span>
-                                          </a>
-                                        </div>
-                                        <div class="product-meta">
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-                                          <div class="leo-list-product-reviews">
-                                            <div class="leo-list-product-reviews-wraper">
-                                              <div class="star_content clearfix">
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                                <div class="star"></div>
-                                              </div>
-                                            </div>
-                                          </div>
-
-                                          <!-- @file modules\appagebuilder\views\templates\front\products\file_tpl -->
-
-                                          <h3 class="h3 product-title" itemprop="name">
-                                            <a href="headphones/15-headphone-s102.html">Headphone s102</a>
-                                          </h3>
-
-                                          <!-- @file modulesappagebuilderviewstemplatesfrontproductsfile_tpl -->
-
-                                          <div class="product-price-and-shipping">
-                                            <span class="price" itemprop="offers" itemscope
-                                              itemtype="http://schema.org/Offer">
-                                              <span itemprop="priceCurrency" content="USD"></span><span itemprop="price"
-                                                content="35">$35.00</span>
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </article>
-                                  </div>
-                                </div>
-                              </div>
-                              <script type="text/javascript">
-                              ap_list_functions.push(function() {
-                                if (
-                                  $("#carousel-3292637988").parents(
-                                    ".tab-pane"
-                                  ).length
-                                ) {
-                                  if (
-                                    !$("#carousel-3292637988")
-                                    .parents(".tab-pane")
-                                    .hasClass("active")
-                                  ) {
-                                    var width_owl_active_tab = $(
-                                        "#carousel-3292637988"
-                                      )
-                                      .parents(".tab-pane")
-                                      .siblings(".active")
-                                      .find(".owl-carousel")
-                                      .width();
-                                    $("#carousel-3292637988").width(
-                                      width_owl_active_tab
-                                    );
-                                  }
-                                }
-                                $("#carousel-3292637988").imagesLoaded(
-                                  function() {
-                                    $(
-                                      "#carousel-3292637988"
-                                    ).owlCarousel({
-                                      items: 3,
-                                      itemsDesktop: [1200, 2],
-                                      itemsDesktopSmall: [992, 2],
-                                      itemsTablet: [768, 2],
-                                      itemsMobile: [576, 1],
-                                      itemsCustom: false,
-                                      singleItem: false, // true : show only 1 item
-                                      itemsScaleUp: false,
-                                      slideSpeed: 200, //  change speed when drag and drop a item
-                                      paginationSpeed: 800, // change speed when go next page
-                                      autoPlay: false, // time to show each item
-                                      stopOnHover: false,
-                                      navigation: false,
-                                      navigationText: [
-                                        "&lsaquo;",
-                                        "&rsaquo;",
-                                      ],
-                                      scrollPerPage: false,
-                                      pagination: false, // show bullist
-                                      paginationNumbers: false, // show number
-                                      responsive: true,
-                                      responsiveRefreshRate: 0,
-                                      lazyLoad: false,
-                                      lazyFollow: false, // true : go to page 7th and load all images page 1...7. false : go to page 7th and load only images of page 7th
-                                      lazyEffect: "fade",
-                                      autoHeight: false,
-                                      mouseDrag: true,
-                                      touchDrag: true,
-                                      addClassActive: true,
-                                      direction: false,
-                                      afterInit: OwlLoaded,
-                                      afterAction: SetOwlCarouselFirstLast,
-                                    });
-                                  }
-                                );
-                              });
-
-                              function OwlLoaded(el) {
-                                el.removeClass("owl-loading")
-                                  .addClass("owl-loaded")
-                                  .parents(".owl-row")
-                                  .addClass("hide-loading");
-                                if (
-                                  $(el).parents(".tab-pane").length &&
-                                  !$(el)
-                                  .parents(".tab-pane")
-                                  .hasClass("active")
-                                )
-                                  el.width("100%");
-                              }
-                              </script>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                  <!--Seção descontos especiais-->
                   <!-- @file modules\appagebuilder\views\templates\hook\ApImage -->
                   <div id="image-form_18815447917164215" class="block style-2 ApImage">
                     <a href="#">
@@ -11852,10 +9343,10 @@
                     <div class="image_description">
                       <div class="content">
                         <h3 class="title-banner">
-                          Latest & Special Brands
+                          Descontos especiais
                         </h3>
                         <p>
-                          <a href="#" class="btn btn-border-white" title="">Shop now</a>
+                          <a href="#" class="btn btn-border-white" title="">Saiba mais</a>
                         </p>
                       </div>
                     </div>
@@ -11870,8 +9361,8 @@
                           alt="" />
                       </div>
                       <div class="policy-info">
-                        <h3 class="title-policy">100% Satisfaction</h3>
-                        <div class="desc-policy">If you are unable</div>
+                        <h3 class="title-policy">Satisfação garantida</h3>
+                        <div class="desc-policy"></div>
                       </div>
                     </div>
                     <div class="box-policy">
@@ -11881,8 +9372,8 @@
                           alt="" />
                       </div>
                       <div class="policy-info">
-                        <h3 class="title-policy">Save 20% when you</h3>
-                        <div class="desc-policy">Use credit card</div>
+                        <h3 class="title-policy">Pagamento seguro</h3>
+                        <div class="desc-policy"></div>
                       </div>
                     </div>
                     <div class="box-policy">
@@ -11892,8 +9383,8 @@
                           alt="" />
                       </div>
                       <div class="policy-info">
-                        <h3 class="title-policy">Fast Free Shipment</h3>
-                        <div class="desc-policy">Load any computer’s</div>
+                        <h3 class="title-policy">Entrega em todo Brasil</h3>
+                        <div class="desc-policy"></div>
                       </div>
                     </div>
                     <div class="box-policy">
@@ -11903,8 +9394,8 @@
                           alt="" />
                       </div>
                       <div class="policy-info">
-                        <h3 class="title-policy">60-Day Money back</h3>
-                        <div class="desc-policy">If you are unable</div>
+                        <h3 class="title-policy">Compramos seu IPhone e pagamos á vista</h3>
+                        <div class="desc-policy"></div>
                       </div>
                     </div>
                   </div>
@@ -11939,6 +9430,7 @@
                       <div class="owl-row">
                         <div class="timeline-wrapper clearfix prepare" data-item="3" data-xl="3" data-lg="3" data-md="2"
                           data-sm="2" data-m="1">
+
                           <div class="timeline-parent">
                             <div class="timeline-item">
                               <div class="animated-background">
@@ -11972,6 +9464,7 @@
                             </div>
                           </div>
                         </div>
+
                         <div id="carousel-3032461049" class="owl-carousel owl-theme owl-loading">
                           <div class="item">
                             <div class="block-carousel-container">
@@ -11981,19 +9474,13 @@
 
                                   <div class="item-image">
                                     <img class="img-fluid"
-                                      src="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/appagebuilder/images/testimonials4.png"
-                                      alt="John Doe" />
+                                      src="<?php echo get_template_directory_uri(); ?>/assets/images/avatar/woman-removebg.png" />
                                   </div>
-                                  <div class="title">John Doe</div>
+                                  <div class="title">Bianca <br> <span>Itajaí - SC</span></div>
                                   <div class="descript">
                                     <div class="testimonial-desc">
                                       <p>
-                                        Lorem ipsum dolor sit amet,
-                                        consectetur adipiscing elit.
-                                        Curabitur non mattis dui, sit amet
-                                        hendrerit nibh. Duis congue
-                                        volutpat urna ut accumsan. Vivam
-                                        mauris...
+                                        Ótimo vendedor! Mercadoria de primeira qualidade. Cumpre o que promete
                                       </p>
                                     </div>
                                     <div class="rating">
@@ -12013,14 +9500,17 @@
 
                                   <div class="item-image">
                                     <img class="img-fluid"
-                                      src="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/appagebuilder/images/testimonials1.jpg"
+                                      src="<?php echo get_template_directory_uri(); ?>/assets/images/avatar/man-removebg.png"
                                       alt="Giancarlo" />
                                   </div>
-                                  <div class="title">Giancarlo</div>
+                                  <div class="title">Jhony Xavier
+                                    <br> <span>Blumenau - SC</span>
+                                  </div>
                                   <div class="descript">
                                     <div class="testimonial-desc">
                                       <p>
-                                        Sempre muito bem atendido!
+                                        Atendimento é excelente, a qualidade é ótima, o ambiente é bom, e o atendente
+                                        tem muita experiência para tirar dúvidas.
                                       </p>
                                     </div>
                                     <div class="rating">
@@ -12040,10 +9530,10 @@
 
                                   <div class="item-image">
                                     <img class="img-fluid"
-                                      src="<?php echo get_template_directory_uri(); ?>/assets/images/avatar/man-removebg.png"
-                                      alt="Reginey" />
+                                      src="<?php echo get_template_directory_uri(); ?>/assets/images/avatar/woman-removebg.png"
+                                      alt="katiane" />
                                   </div>
-                                  <div class="title">Reginey</div>
+                                  <div class="title">Katiane Cristina Ramos <br> <span>Ilhota - SC</span></div>
                                   <div class="descript">
                                     <div class="testimonial-desc">
                                       <p>
@@ -12068,19 +9558,14 @@
 
                                   <div class="item-image">
                                     <img class="img-fluid"
-                                      src="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/appagebuilder/images/testimonials3.jpg"
-                                      alt="Saitama One" />
+                                      src="<?php echo get_template_directory_uri(); ?>/assets/images/avatar/woman-removebg.png"
+                                      alt="Dayane" />
                                   </div>
-                                  <div class="title">Saitama One</div>
+                                  <div class="title">Dayani Amorim <br> <span>Blumenau - SC</span></div>
                                   <div class="descript">
                                     <div class="testimonial-desc">
                                       <p>
-                                        Lorem ipsum dolor sit amet,
-                                        consectetur adipiscing elit.
-                                        Curabitur non mattis dui, sit amet
-                                        hendrerit nibh. Duis congue
-                                        volutpat urna ut accumsan. Vivam
-                                        mauris...
+                                        Melhor atendimento e de confiança, esperei pra comprar com ele. Recomendo
                                       </p>
                                     </div>
                                     <div class="rating">
@@ -12162,7 +9647,7 @@
                   <!-- @file modules\appagebuilder\views\templates\hook\ApBlog -->
 
                   <div id="blog-form_20945741681305982" class="block latest-blogs exclusive appagebuilder ApBlog">
-                    <h4 class="title_block">From the blog</h4>
+                    <h4 class="title_block">Blog</h4>
 
                     <div class="block_content">
                       <!-- @file modules\appagebuilder\views\templates\hook\BlogOwlCarousel -->
@@ -12210,7 +9695,8 @@
                                 <div class="blog-image-container">
                                   <a class="blog_img_link" href="blog/lorem-ipsum-dolor-sit-amet-enim-b7.html"
                                     title="Lorem Ipsum Dolor Sit Amet Enim" itemprop="url">
-                                    <img class="img-fluid" src="../img/leoblog/b/1/7/1500_960/b-b-blog-1.jpg"
+                                    <img class="img-fluid"
+                                      src="<?php echo get_template_directory_uri(); ?>/img/leoblog/b/1/7/1500_960/b-b-blog-1.jpg"
                                       alt="Lorem Ipsum Dolor Sit Amet Enim" title="Lorem Ipsum Dolor Sit Amet Enim"
                                       width="1500" height="960" itemprop="image" />
                                   </a>
@@ -12258,7 +9744,8 @@
                                 <div class="blog-image-container">
                                   <a class="blog_img_link" href="blog/gazen-suma-poma-nua-b6.html"
                                     title="Gazen Suma Poma Nua" itemprop="url">
-                                    <img class="img-fluid" src="../img/leoblog/b/1/6/1500_960/b-b-blog-8.jpg"
+                                    <img class="img-fluid"
+                                      src="<?php echo get_template_directory_uri(); ?>/img/leoblog/b/1/6/1500_960/b-b-blog-8.jpg"
                                       alt="Gazen Suma Poma Nua" title="Gazen Suma Poma Nua" width="1500" height="960"
                                       itemprop="image" />
                                   </a>
@@ -12306,7 +9793,8 @@
                                 <div class="blog-image-container">
                                   <a class="blog_img_link" href="blog/classics-from-yesterday-b5.html"
                                     title="Classics From Yesterday" itemprop="url">
-                                    <img class="img-fluid" src="../img/leoblog/b/1/5/1500_960/b-b-blog-2.jpg"
+                                    <img class="img-fluid"
+                                      src="<?php echo get_template_directory_uri(); ?>/img/leoblog/b/1/5/1500_960/b-b-blog-2.jpg"
                                       alt="Classics From Yesterday" title="Classics From Yesterday" width="1500"
                                       height="960" itemprop="image" />
                                   </a>
@@ -12605,290 +10093,6 @@
                     </div>
                   </div>
 
-                  <!-- @file modules\appagebuilder\views\templates\hook\ApManuFacturersCarousel -->
-                  <div class="block manufacturers_block exclusive appagebuilder ApManuFacturersCarousel">
-                    <div class="block_content">
-                      <!-- @file modules\appagebuilder\views\templates\hook\ApManuFacturersCarousel -->
-                      <div class="slick-row">
-                        <div class="timeline-wrapper clearfix prepare" data-item="6" data-xl="5" data-lg="5" data-md="4"
-                          data-sm="3" data-m="2">
-                          <div class="timeline-parent">
-                            <div class="timeline-item">
-                              <div class="animated-background">
-                                <div class="background-masker content-top"></div>
-                                <div class="background-masker content-second-line"></div>
-                                <div class="background-masker content-third-line"></div>
-                                <div class="background-masker content-fourth-line"></div>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="timeline-parent">
-                            <div class="timeline-item">
-                              <div class="animated-background">
-                                <div class="background-masker content-top"></div>
-                                <div class="background-masker content-second-line"></div>
-                                <div class="background-masker content-third-line"></div>
-                                <div class="background-masker content-fourth-line"></div>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="timeline-parent">
-                            <div class="timeline-item">
-                              <div class="animated-background">
-                                <div class="background-masker content-top"></div>
-                                <div class="background-masker content-second-line"></div>
-                                <div class="background-masker content-third-line"></div>
-                                <div class="background-masker content-fourth-line"></div>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="timeline-parent">
-                            <div class="timeline-item">
-                              <div class="animated-background">
-                                <div class="background-masker content-top"></div>
-                                <div class="background-masker content-second-line"></div>
-                                <div class="background-masker content-third-line"></div>
-                                <div class="background-masker content-fourth-line"></div>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="timeline-parent">
-                            <div class="timeline-item">
-                              <div class="animated-background">
-                                <div class="background-masker content-top"></div>
-                                <div class="background-masker content-second-line"></div>
-                                <div class="background-masker content-third-line"></div>
-                                <div class="background-masker content-fourth-line"></div>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="timeline-parent">
-                            <div class="timeline-item">
-                              <div class="animated-background">
-                                <div class="background-masker content-top"></div>
-                                <div class="background-masker content-second-line"></div>
-                                <div class="background-masker content-third-line"></div>
-                                <div class="background-masker content-fourth-line"></div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="slick-manufacturers slick-slider slick-loading" id="form_4038460194127238">
-                          <div class="item-image first">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Studio Design" href="brand/1-studio-design.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/1-manu_default.jpg" alt="Studio Design"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Graphic Corner" href="brand/2-graphic-corner.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/2-manu_default.jpg" alt="Graphic Corner"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Brand 3" href="brand/3-brand-3.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/3-manu_default.jpg" alt="Brand 3"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Brand 4" href="brand/4-brand-4.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/4-manu_default.jpg" alt="Brand 4"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Brand 5" href="brand/5-brand-5.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/5-manu_default.jpg" alt="Brand 5"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Brand 6" href="brand/6-brand-6.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/6-manu_default.jpg" alt="Brand 6"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Brand 7" href="brand/7-brand-7.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/7-manu_default.jpg" alt="Brand 7"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Brand 8" href="brand/8-brand-8.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/8-manu_default.jpg" alt="Brand 8"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Brand 9" href="brand/9-brand-9.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/9-manu_default.jpg" alt="Brand 9"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="item-image">
-                            <div class="manufacturer-container manufacturer-block" itemscope
-                              itemtype="https://schema.org/Brand">
-                              <div class="left-block">
-                                <div class="manufacturer-image-container image">
-                                  <a title="Brand 10" href="brand/10-brand-10.html" itemprop="url">
-                                    <img class="img-fluid" src="../img/m/10-manu_default.jpg" alt="Brand 10"
-                                      itemprop="image" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-
-                      <script type="text/javascript">
-                      ap_list_functions.push(function() {
-                        $("#form_4038460194127238").imagesLoaded(
-                          function() {
-                            $("#form_4038460194127238").slick({
-                              centerMode: false,
-                              centerPadding: "60px",
-                              dots: false,
-                              infinite: false,
-                              vertical: false,
-                              verticalSwiping: false,
-                              autoplay: false,
-                              pauseonhover: false,
-                              autoplaySpeed: 2000,
-                              arrows: false,
-                              rows: 1,
-                              slidesToShow: 5,
-                              slidesToScroll: 1,
-                              rtl: false,
-                              responsive: [{
-                                  breakpoint: 1200,
-                                  settings: {
-                                    centerMode: false,
-                                    centerPadding: "60px",
-                                    slidesToShow: 6,
-                                    slidesToScroll: 1,
-                                  },
-                                },
-                                {
-                                  breakpoint: 992,
-                                  settings: {
-                                    centerMode: false,
-                                    centerPadding: "60px",
-                                    slidesToShow: 5,
-                                    slidesToScroll: 1,
-                                  },
-                                },
-                                {
-                                  breakpoint: 768,
-                                  settings: {
-                                    centerMode: false,
-                                    centerPadding: "60px",
-                                    slidesToShow: 4,
-                                    slidesToScroll: 1,
-                                  },
-                                },
-                                {
-                                  breakpoint: 576,
-                                  settings: {
-                                    centerMode: false,
-                                    centerPadding: "60px",
-                                    slidesToShow: 3,
-                                    slidesToScroll: 1,
-                                  },
-                                },
-                                {
-                                  breakpoint: 480,
-                                  settings: {
-                                    centerMode: false,
-                                    centerPadding: "60px",
-                                    slidesToShow: 2,
-                                    slidesToScroll: 1,
-                                  },
-                                },
-                              ],
-                            });
-                            $("#form_4038460194127238")
-                              .removeClass("slick-loading")
-                              .addClass("slick-loaded")
-                              .parents(".slick-row")
-                              .addClass("hide-loading");
-                          }
-                        );
-                      });
-                      </script>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
