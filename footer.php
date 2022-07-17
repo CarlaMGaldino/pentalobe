@@ -11,7 +11,7 @@
               <div class="block_newsletter block links accordion_small_screen"
                 id="blockEmailSubscription_displayFooterBefore">
                 <div class="title-newsletter">
-                  <h3 class="title_block">Newsletter sign up!</h3>
+                  <h3 class="title_block">Inscreva-se</h3>
                   <p class="sub-letter">
                     You may unsubscribe at any moment. For that purpose,
                     please find our contact info in the legal notice.
@@ -27,12 +27,12 @@
                     method="post">
                     <div class="form-group">
                       <!-- <div class="input-wrapper"> -->
-                      <input name="email" type="email" value="" placeholder="Your email address" required />
+                      <input name="email" type="email" value="" placeholder="Digite seu e-mail" required />
                       <!-- </div> -->
                     </div>
                     <button class="btn btn-outline" name="submitNewsletter" type="submit" value="Subscribe">
                       <i class="fa fa-envelope"></i>
-                      <span>Subscribe</span>
+                      <span>Enviar</span>
                     </button>
                     <input type="hidden" name="blockHookName" value="displayFooterBefore" />
                     <input type="hidden" name="action" value="0" />
@@ -49,16 +49,18 @@
                 <h4 class="title_block">Follow us on social</h4>
                 <ul class="footer_block_social">
                   <li class="facebook">
-                    <a href="#" title="Facebook" target="_blank" rel="noopener noreferrer"><span>Facebook</span></a>
+                    <a href="https://www.facebook.com/pentalobe/?fref=ts" title="Facebook" target="_blank"
+                      rel="noopener noreferrer"><span>Facebook</span></a>
                   </li>
-                  <li class="twitter">
+                  <!-- <li class="twitter">
                     <a href="#" title="Twitter" target="_blank" rel="noopener noreferrer"><span>Twitter</span></a>
-                  </li>
-                  <li class="youtube">
+                  </li> -->
+                  <!-- <li class="youtube">
                     <a href="#" title="YouTube" target="_blank" rel="noopener noreferrer"><span>YouTube</span></a>
-                  </li>
+                  </li> -->
                   <li class="instagram">
-                    <a href="#" title="Instagram" target="_blank" rel="noopener noreferrer"><span>Instagram</span></a>
+                    <a href="https://www.instagram.com/pentalobe/" title="Instagram" target="_blank"
+                      rel="noopener noreferrer"><span>Instagram</span></a>
                   </li>
                 </ul>
               </div>
@@ -88,7 +90,8 @@
                   <p>contato@pentalobe.com.br</p>
                 </a>
                 <p>
-                  60, 29th Street, San Francisco, CA 94110, United States
+                  Rua XV de Novembro, 759, Shopping H - Loja 24C
+                  Centro - Blumenau - SC
                 </p>
               </div>
             </div>
@@ -101,7 +104,7 @@
               <!-- @file modules\appagebuilder\views\templates\hook\ApBlockLink -->
               <div class="block block-toggler ApLink ApBlockLink accordion_small_screen">
                 <div class="title clearfix" data-target="#footer-link-form_2661201465081949" data-toggle="collapse">
-                  <h4 class="title_block">Company</h4>
+                  <h4 class="title_block">Informações</h4>
                   <span class="float-xs-right">
                     <span class="navbar-toggler collapse-icons">
                       <i class="material-icons add">&#xE313;</i>
@@ -111,19 +114,20 @@
                 </div>
                 <ul class="collapse" id="footer-link-form_2661201465081949">
                   <li>
-                    <a href="content/7-aeu-legal-privacy.html" target="_self">Privacy</a>
+                    <a href="#" target="_self">Sobre nós</a>
                   </li>
                   <li>
-                    <a href="content/1-delivery.html" target="_self">Delivery</a>
+                    <a href="#" target="_self">Politica de privacidade</a>
                   </li>
                   <li>
-                    <a href="content/2-legal-notice.html" target="_self">Legal Notice</a>
+                    <a href="#" target="_self">Termos e condições</a>
                   </li>
                   <li>
-                    <a href="contact-us.html" target="_self">Contact</a>
+                    <a href="#" target="_self">Trocas e condições</a>
                   </li>
-                  <li><a href="#" target="_self">Company</a></li>
-                  <li><a href="#" target="_self">Product</a></li>
+                  <li>
+                    <a href="#" target="_self">Contato</a>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -132,7 +136,7 @@
               <!-- @file modules\appagebuilder\views\templates\hook\ApBlockLink -->
               <div class="block block-toggler ApLink ApBlockLink accordion_small_screen">
                 <div class="title clearfix" data-target="#footer-link-form_33107394902102845" data-toggle="collapse">
-                  <h4 class="title_block">Explore</h4>
+                  <h4 class="title_block">Minha conta</h4>
                   <span class="float-xs-right">
                     <span class="navbar-toggler collapse-icons">
                       <i class="material-icons add">&#xE313;</i>
@@ -145,15 +149,13 @@
                     <a href="content/8-aeu-legal-shipping-and-payment.html" target="_self">Shipping &amp; Return</a>
                   </li>
                   <li>
-                    <a href="content/7-aeu-legal-privacy.html" target="_self">Our Policy
+                    <a href="#" target="_self">Minha conta
                     </a>
                   </li>
                   <li>
-                    <a href="content/3-terms-and-conditions-of-use.html" target="_self">Terms &amp; Conditions</a>
+                    <a href="content/3-terms-and-conditions-of-use.html" target="_self">Histórico de pedidos</a>
                   </li>
-                  <li><a href="#" target="_self">Gift a Smile</a></li>
-                  <li><a href="#" target="_self">Creybit Cares</a></li>
-                  <li><a href="#" target="_self">Size Guide</a></li>
+                  <li><a href="#" target="_self">Cadastre-se</a></li>
                 </ul>
               </div>
             </div>
@@ -165,11 +167,12 @@
             <div class="col-xl-3 col-lg-4 col-md-12 col-sm-12 col-xs-12 col-sp-12 box-ourmap ApColumn">
               <!-- @file modules\appagebuilder\views\templates\hook\ApImage -->
               <div id="image-form_3176374844" class="block ApImage">
-                <h4 class="title_block">Our location</h4>
+                <h4 class="title_block">Onde estamos</h4>
 
-                <img
-                  src="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/appagebuilder/images/bg-map-footer-h1.png"
-                  class="" title="Our location" alt="" style="width: auto; height: auto" loading="lazy" />
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3557.45089501413!2d-49.06653818489879!3d-26.920916650030566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRua%20XV%20de%20Novembro%2C%20759%2C%20Shopping%20H%20-%20Loja%2024C%20Centro%20-%20Blumenau%20-%20SC!5e0!3m2!1spt-BR!2sbr!4v1658081401225!5m2!1spt-BR!2sbr"
+                  width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
           </div>
@@ -616,6 +619,8 @@ var style_scroll_popup = "vertical";
     </div>
   </div>
 </div>
+
+
 </body>
 
 </html>

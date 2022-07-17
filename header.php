@@ -9,75 +9,12 @@
   <meta name="description" content="<?php bloginfo('description') ?>" />
   <meta name="keywords" content="" />
 
-  <link rel="alternate" href="module/appagebuilder/appagebuilderhomed725.html?module=appagebuilder" hreflang="en-us" />
-  <link rel="alternate"
-    href="https://rubiktheme.com/demo/at_dimita_demo/fr/module/appagebuilder/appagebuilderhome?module=appagebuilder"
-    hreflang="fr-fr" />
-  <link rel="alternate"
-    href="https://rubiktheme.com/demo/at_dimita_demo/de/module/appagebuilder/appagebuilderhome?module=appagebuilder"
-    hreflang="de-de" />
-  <link rel="alternate"
-    href="https://rubiktheme.com/demo/at_dimita_demo/es/module/appagebuilder/appagebuilderhome?module=appagebuilder"
-    hreflang="es-es" />
-  <link rel="alternate"
-    href="https://rubiktheme.com/demo/at_dimita_demo/it/module/appagebuilder/appagebuilderhome?module=appagebuilder"
-    hreflang="it-it" />
-  <link rel="alternate"
-    href="https://rubiktheme.com/demo/at_dimita_demo/ar/module/appagebuilder/appagebuilderhome?module=appagebuilder"
-    hreflang="ar-sa" />
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Dimita Electronics",
-    "url": "https://rubiktheme.com/demo/at_dimita_demo/en/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://rubiktheme.com/demo/at_dimita_demo/img/dimita-electronics-logo-1613756035.jpg"
-    }
-  }
-  </script>
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "isPartOf": {
-      "@type": "WebSite",
-      "url": "https://rubiktheme.com/demo/at_dimita_demo/en/",
-      "name": "Dimita Electronics"
-    },
-    "name": "Dimita Electronics",
-    "url": "https://rubiktheme.com/demo/at_dimita_demo/en/home-3.html"
-  }
-  </script>
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "https://rubiktheme.com/demo/at_dimita_demo/en/",
-    "image": {
-      "@type": "ImageObject",
-      "url": "https://rubiktheme.com/demo/at_dimita_demo/img/dimita-electronics-logo-1613756035.jpg"
-    },
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://rubiktheme.com/demo/at_dimita_demo/en/search?search_query={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
-  }
-  </script>
-
-  <meta property="og:title" content="Dimita Electronics" />
-  <meta property="og:description" content="Shop powered by PrestaShop" />
-  <meta property="og:url" content="https://rubiktheme.com/demo/at_dimita_demo/en/home-3.html" />
-  <meta property="og:site_name" content="Dimita Electronics" />
+  <meta property="og:title" content="Pentalobe" />
+  <meta property="og:description" content="Vender Iphone usado com segurança e garantia" />
+  <meta property="og:url" content="https://pentalobe.com.br" />
+  <meta property="og:site_name" content="Pentalobe" />
   <meta property="og:type" content="website" />
-
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
   <link rel="icon" type="image/vnd.microsoft.icon"
     href="https://rubiktheme.com/demo/at_dimita_demo/img/favicon.ico?1613756035" />
   <link rel="shortcut icon" type="image/x-icon"
@@ -85,7 +22,7 @@
   <link rel="stylesheet"
     href="<?php echo get_stylesheet_directory_uri(); ?>/themes/at_dimita/assets/cache/theme-global.css" type="text/css"
     media="all" />
-  <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/themes/at_dimita/assets/cache//style.css">
+  <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/themes/at_dimita/assets/cache/style.css">
 
   <script type="text/javascript">
   var LEO_COOKIE_THEME = "AT_DIMITA_PANEL_CONFIG";
@@ -1326,11 +1263,12 @@
   </script>
   <script src="/<?php echo get_template_directory_uri(); ?>/<?php echo get_template_directory_uri(); ?>/<?php echo get_template_directory_uri(); ?>/apis.google.com/js/api_client.js"></script> -->
 
-
-
   <main id="page">
+
     <header id="header">
+
       <div class="header-container">
+
         <div class="header-banner">
           <div class="container">
             <div class="inner"></div>
@@ -1350,104 +1288,14 @@
                       <div class="block topnav-left style-0 ApRawHtml">
                         <div class="email">
                           <label>Email:</label>
-                          <a href="#"> support@domain.com</a>
+                          <a href="mailto:contato@pentalobe.com.br"> contato@pentalobe.com.br</a>
                         </div>
-                        <div class="location">
-                          <label>Today’s Deal:</label> Sale Off 50%
+                        <div class="email">
+                          <a href="tel:5547991839432">(47)99183-9432</a>
                         </div>
                       </div>
                     </div>
-                    <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-12 col-sp-12 topnav-right style-0 ApColumn">
-                      <!-- @file modules\appagebuilder\views\templates\hook\ApGeneral -->
-                      <div class="block order ApRawHtml">
-                        <a href="#" title="">Order Tracking</a>
-                      </div>
-                      <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
-                      <div class="language-selector-wrapper dropdown js-dropdown popup-over"
-                        id="language-selector-label">
-                        <a class="popup-title" href="javascript:void(0)" data-toggle="dropdown" title="Language"
-                          aria-label="Language dropdown">
-                          <span class="hidden-xl-down">Language:</span>
-                          <span class="iso_code"> English </span>
-                          <i class="fa fa-angle-down"></i>
-                        </a>
-                        <ul class="dropdown-menu popup-content link language-selector"
-                          aria-labelledby="language-selector-label">
-                          <li class="current">
-                            <a href="module/appagebuilder/appagebuilderhome.html" class="dropdown-item"
-                              data-iso-code="en">
-                              <img src="<?php echo get_template_directory_uri(); ?>/img/l/1.jpg" alt="en" width="16"
-                                height="11" />
-                              <span>English</span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="https://rubiktheme.com/demo/at_dimita_demo/fr/module/appagebuilder/appagebuilderhome"
-                              class="dropdown-item" data-iso-code="fr">
-                              <img src="<?php echo get_template_directory_uri(); ?>/img/l/2.jpg" alt="fr" width="16"
-                                height="11" />
-                              <span>Français</span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="https://rubiktheme.com/demo/at_dimita_demo/de/module/appagebuilder/appagebuilderhome"
-                              class="dropdown-item" data-iso-code="de">
-                              <img src="<?php echo get_template_directory_uri(); ?>/img/l/3.jpg" alt="de" width="16"
-                                height="11" />
-                              <span>Deutsch</span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="https://rubiktheme.com/demo/at_dimita_demo/es/module/appagebuilder/appagebuilderhome"
-                              class="dropdown-item" data-iso-code="es">
-                              <img src="<?php echo get_template_directory_uri(); ?>/img/l/4.jpg" alt="es" width="16"
-                                height="11" />
-                              <span>Español</span>
-                            </a>
-                          </li>
-                          <li>
-                            <a href="https://rubiktheme.com/demo/at_dimita_demo/it/module/appagebuilder/appagebuilderhome"
-                              class="dropdown-item" data-iso-code="it">
-                              <img src="<?php echo get_template_directory_uri(); ?>/img/l/5.jpg" alt="it" width="16"
-                                height="11" />
-                              <span>Italiano</span>
-                            </a>
 
-                          </li>
-                          <li>
-                            <a href="https://rubiktheme.com/demo/at_dimita_demo/ar/module/appagebuilder/appagebuilderhome"
-                              class="dropdown-item" data-iso-code="ar">
-                              <img src="<?php echo get_template_directory_uri(); ?>/img/l/6.jpg" alt="ar" width="16"
-                                height="11" />
-                              <span>اللغة العربية</span>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-
-                      <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
-                      <div class="currency-selector dropdown js-dropdown popup-over" id="currency-selector-label">
-                        <a href="javascript:void(0)" data-toggle="dropdown" class="popup-title" title="Currency"
-                          aria-label="Currency dropdown">
-                          <span class="hidden-xl-down">Currency:</span>
-                          <span class="iso_code">USD</span>
-                          <i class="fa fa-angle-down" aria-hidden="true"></i>
-                        </a>
-                        <ul class="popup-content dropdown-menu" aria-labelledby="currency-selector-label">
-                          <li>
-                            <a title="Euro" rel="nofollow"
-                              href="module/appagebuilder/appagebuilderhome6edc.html?SubmitCurrency=1&amp;id_currency=2"
-                              class="dropdown-item">EUR €</a>
-                          </li>
-                          <li class="current">
-                            <a title="US Dollar" rel="nofollow"
-                              href="module/appagebuilder/appagebuilderhomee3c8.html?SubmitCurrency=1&amp;id_currency=1"
-                              class="dropdown-item">USD $</a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -1476,10 +1324,10 @@
                   <div class="col-xl-3 col-lg-3 col-md-9 col-sm-8 col-xs-6 col-sp-5 col-logo ApColumn">
                     <!-- @file modules\appagebuilder\views\templates\hook\ApGenCode -->
 
-                    <a href="https://rubiktheme.com/demo/at_dimita_demo/">
+                    <a href="<?php echo get_permalink(get_page_by_path('Home')) ?>">
                       <img class="logo img-fluid"
                         src="<?php echo get_template_directory_uri(); ?>/assets/images/logo/pentalobe.png"
-                        alt="Dimita Electronics" /></a>
+                        alt="Logo Pentalobe" /></a>
                   </div>
                   <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
                   <div class="col-xl-6 col-lg-6 col-md-1 col-sm-1 col-xs-2 col-sp-2 col-search ApColumn">
@@ -1505,25 +1353,25 @@
                             <input id="leosearchtop-cate-id" name="cate" value="" type="hidden" />
                             <a href="#" id="dropdownListCateTop" class="select-title" rel="nofollow"
                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                              <span>All Categories</span>
+                              <span>Todas as categorias</span>
                               <i class="fa fa-angle-down"></i>
                             </a>
                             <div class="list-cate dropdown-menu" aria-labelledby="dropdownListCateTop">
-                              <a href="#" data-cate-id="" data-cate-name="All Categories" class="cate-item active">All
-                                Categories</a>
+                              <a href="#" data-cate-id="" data-cate-name="All Categories" class="cate-item active">Todas
+                                as categorias</a>
                               <a href="#" data-cate-id="2" data-cate-name="Home" class="cate-item cate-level-1">Home</a>
 
                               <a href="#" data-cate-id="3" data-cate-name="Shop"
-                                class="cate-item cate-level-2">--Shop</a>
+                                class="cate-item cate-level-2">Iphone</a>
                               <a href="#" data-cate-id="4" data-cate-name="Computer &amp; Laptop"
-                                class="cate-item cate-level-3">---Computer &amp; Laptop</a>
+                                class="cate-item cate-level-3">MacBook</a>
                               <a href="#" data-cate-id="10" data-cate-name="Recorders"
-                                class="cate-item cate-level-4">----Recorders</a>
+                                class="cate-item cate-level-4">Apple Watch</a>
                               <a href="#" data-cate-id="11" data-cate-name="DVD Players &amp; Recorders"
-                                class="cate-item cate-level-4">----DVD Players &amp; Recorders</a>
+                                class="cate-item cate-level-4">Acessórios</a>
                               <a href="#" data-cate-id="12" data-cate-name="DVD-VCR Combos"
-                                class="cate-item cate-level-4">----DVD-VCR Combos</a>
-                              <a href="#" data-cate-id="13" data-cate-name="Home Theater Systems"
+                                class="cate-item cate-level-4">Ipad</a>
+                              <!-- <a href="#" data-cate-id="13" data-cate-name="Home Theater Systems"
                                 class="cate-item cate-level-4">----Home Theater Systems</a>
                               <a href="#" data-cate-id="5" data-cate-name="Camera &amp; Photo"
                                 class="cate-item cate-level-3">---Camera &amp; Photo</a>
@@ -1550,9 +1398,10 @@
                               <a href="#" data-cate-id="21" data-cate-name="Tablet"
                                 class="cate-item cate-level-3">---Tablet</a>
                               <a href="#" data-cate-id="9" data-cate-name="Technologies"
-                                class="cate-item cate-level-2">--Technologies</a>
+                                class="cate-item cate-level-2">--Technologies</a> -->
                             </div>
                           </div>
+
                           <div class="leoproductsearch-result">
                             <div class="leoproductsearch-loading cssload-container">
                               <div class="cssload-speeding-wheel"></div>
@@ -1573,6 +1422,8 @@
                     var blocksearch_type = "top";
                     </script>
                   </div>
+
+                  <!--FORM MODAL HOME-->
                   <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
                   <div class="col-xl-3 col-lg-3 col-md-2 col-sm-3 col-xs-4 col-sp-5 col-info style-0 ApColumn">
                     <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
@@ -1592,7 +1443,7 @@
                                   Existing Account Login
                                 </span>
                                 <span class="title-only">
-                                  Login to your account
+                                  Faça login na sua conta
                                 </span>
                               </h3>
                               <form class="lql-form-content leo-login-form-content" action="#" method="post">
@@ -1612,7 +1463,7 @@
                                     <label class="form-control-label"><span>Remember Me</span></label>
                                   </div>
                                   <div class="col-xs-6 text-sm-right">
-                                    <a role="button" href="#" class="leoquicklogin-forgotpass">Forgot Password ?</a>
+                                    <a role="button" href="#" class="leoquicklogin-forgotpass">esqueci minha senha</a>
                                   </div>
                                 </div>
                                 <div class="form-group text-right">
@@ -1625,8 +1476,9 @@
                                   </button>
                                 </div>
                                 <div class="form-group lql-callregister">
-                                  <a role="button" href="#" class="lql-callregister-action">No account? Create one here
-                                    ?</a>
+                                  <a role="button" href="#" class="lql-callregister-action">Não é cadastrado?
+                                    Cadastre-se
+                                  </a>
                                 </div>
                               </form>
                               <div class="leo-resetpass-form">
@@ -1655,26 +1507,26 @@
                             </div>
                             <div class="leo-form leo-register-form col-sm-12 leo-form-inactive full-width">
                               <h3 class="leo-register-title">
-                                New Account Register
+                                Criar conta
                               </h3>
                               <form class="lql-form-content leo-register-form-content" action="#" method="post">
                                 <div class="form-group lql-form-mesg has-success"></div>
                                 <div class="form-group lql-form-mesg has-danger"></div>
                                 <div class="form-group lql-form-content-element">
                                   <input type="text" class="form-control lql-register-firstname"
-                                    name="lql-register-firstname" required="" placeholder="First Name" />
+                                    name="lql-register-firstname" required="" placeholder="Nome" />
                                 </div>
                                 <div class="form-group lql-form-content-element">
                                   <input type="text" class="form-control lql-register-lastname"
-                                    name="lql-register-lastname" required="" placeholder="Last Name" />
+                                    name="lql-register-lastname" required="" placeholder="Sobrenome" />
                                 </div>
                                 <div class="form-group lql-form-content-element">
                                   <input type="email" class="form-control lql-register-email" name="lql-register-email"
-                                    required="" placeholder="Email Address" />
+                                    required="" placeholder="Email" />
                                 </div>
                                 <div class="form-group lql-form-content-element">
                                   <input type="password" class="form-control lql-register-pass" name="lql-register-pass"
-                                    required="" placeholder="Password" />
+                                    required="" placeholder="Senha" />
                                 </div>
                                 <div class="form-group text-right">
                                   <button type="submit"
@@ -1683,16 +1535,16 @@
                                     <i class="leoquicklogin-icon leoquicklogin-success-icon material-icons">&#xE876;</i>
                                     <i class="leoquicklogin-icon leoquicklogin-fail-icon material-icons">&#xE033;</i>
                                     <span class="lql-bt-txt">
-                                      Create an Account
+                                      Enviar
                                     </span>
                                   </button>
                                 </div>
                                 <div class="form-group lql-calllogin">
-                                  <div>Already have an account?</div>
-                                  <a role="button" href="#" class="lql-calllogin-action">Log in instead</a>
-                                  Or
-                                  <a role="button" href="#" class="lql-calllogin-action lql-callreset-action">Reset
-                                    password</a>
+                                  <div>Já tem uma conta?</div>
+                                  <a role="button" href="#" class="lql-calllogin-action">Faça login</a>
+                                  Ou
+                                  <a role="button" href="#" class="lql-calllogin-action lql-callreset-action">Redefinir
+                                    senha</a>
                                 </div>
                               </form>
                             </div>
@@ -1700,19 +1552,14 @@
 
                           <div class="lql-social-login clearfix show-bt-txt">
                             <h3 class="lql-social-login-title">
-                              Connect with Social Networks
+                              Faça login com suas redes sociais
                             </h3>
-                            <!--
-		<div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="login_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="false" scope="public_profile,email" onlogin="checkLoginState();"></div>
-		-->
                             <button class="btn social-login-bt facebook-login-bt" onclick="doFbLogin();">
                               <span class="fa fa-facebook"></span>Sign in with
                               Facebook
                             </button>
 
-                            <!--
-		<div class="g-signin2" data-scope="profile email" data-longtitle="true" data-theme="dark" data-onsuccess="googleSignIn" data-onfailure="googleFail"></div>
-	-->
+
                             <button class="btn social-login-bt google-login-bt">
                               <span class="fa fa-google"></span>Sign in with
                               Google
@@ -1757,550 +1604,56 @@
                 </div>
               </div>
             </div>
+
             <!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
             <div class="wrapper">
+
               <div class="container">
+
                 <div class="row no-margin box-header-bottom style-0 ApRow" style="">
                   <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+
                   <div class="col-xl-9 col-lg-9 col-md-6 col-sm-2 col-xs-2 col-sp-2 no-padding ApColumn">
                     <!-- @file modules\appagebuilder\views\templates\hook\ApSlideShow -->
                     <div id="memgamenu-form_1667339054" class="ApMegamenu">
+
                       <nav data-megamenu-id="1667339054"
                         class="leo-megamenu cavas_menu navbar navbar-default enable-canvas" role="navigation">
+
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="navbar-header">
                           <button type="button" class="navbar-toggler hidden-lg-up" data-toggle="collapse"
                             data-target=".megamenu-off-canvas-1667339054">
                             <span class="sr-only">Toggle navigation</span>
                             &#9776;
-                            <!--
-                                            <span class="icon-bar"></span>
-                                            <span class="icon-bar"></span>
-                                            <span class="icon-bar"></span>
-                                            -->
                           </button>
                         </div>
+
+                        <!--MENU NAVEGAÇÃO-->
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div
                           class="leo-top-menu collapse navbar-toggleable-md megamenu-off-canvas megamenu-off-canvas-1667339054">
+
                           <ul class="nav navbar-nav megamenu horizontal">
+
                             <li data-menu-type="controller" class="nav-item parent dropdown">
-                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="index.html"
-                                target="_self">
+                              <a class="nav-link" data-toggle="dropdown"
+                                href="<?php echo get_permalink(get_page_by_path('Home')) ?>" target="_self">
                                 <span class="menu-title">Home</span>
                               </a>
-                              <b class="caret"></b>
-                              <div class="dropdown-menu level1">
-                                <div class="dropdown-menu-inner">
-                                  <div class="row">
-                                    <div class="col-sm-12 mega-col" data-colwidth="12" data-type="menu">
-                                      <div class="inner">
-                                        <ul>
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-1.html" target="_self">
-                                              <span class="menu-title">Home 1</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-2.html" target="_self">
-                                              <span class="menu-title">Home 2</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-3.html" target="_self">
-                                              <span class="menu-title">Home 3</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-4.html" target="_self">
-                                              <span class="menu-title">Home 4</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-5.html" target="_self">
-                                              <span class="menu-title">Home 5</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-6.html" target="_self">
-                                              <span class="menu-title">Home 6</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-7.html" target="_self">
-                                              <span class="menu-title">Home 7</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-8.html" target="_self">
-                                              <span class="menu-title">Home 8</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-9.html" target="_self">
-                                              <span class="menu-title">Home 9</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-10.html" target="_self">
-                                              <span class="menu-title">Home 10</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-11.html" target="_self">
-                                              <span class="menu-title">Home 11</span>
-                                            </a>
-                                          </li>
-
-                                          <li data-menu-type="url" class="nav-item">
-                                            <a class="nav-link" href="home-12.html" target="_self">
-                                              <span class="menu-title">Home 12</span>
-                                            </a>
-                                          </li>
-                                        </ul>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
                             </li>
+
                             <li data-menu-type="category" class="nav-item parent dropdown aligned-fullwidth">
-                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="2-home.html"
-                                target="_self">
-                                <span class="menu-title">Shop</span>
+                              <a class="nav-link" data-toggle="dropdown" href="#" target="_self">
+                                <span class="menu-title">Quero vender</span>
                               </a>
-                              <b class="caret"></b>
-                              <div class="dropdown-sub dropdown-menu">
-                                <div class="dropdown-menu-inner">
-                                  <div class="row">
-                                    <div class="mega-col col-md-3">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1589770641">
-                                          <div class="widget-subcategories">
-                                            <div class="widget-inner">
-                                              <div class="menu-title">
-                                                <a href="3-shop.html" title="Shop" class="img">
-                                                  Shop
-                                                </a>
-                                              </div>
-                                              <ul>
-                                                <li class="clearfix">
-                                                  <a href="4-computer-laptop.html" title="Computer &amp; Laptop"
-                                                    class="img">
-                                                    Computer &amp; Laptop
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="5-camera-photo.html" title="Camera &amp; Photo" class="img">
-                                                    Camera &amp; Photo
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="18-audio-home.html" title="Audio &amp; Home" class="img">
-                                                    Audio &amp; Home
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="19-smartphone-ipad.html" title="SmartPhone &amp; Ipad"
-                                                    class="img">
-                                                    SmartPhone &amp; Ipad
-                                                  </a>
-                                                </li>
-                                              </ul>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="mega-col col-md-3">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1589771470">
-                                          <div class="widget-subcategories">
-                                            <div class="widget-inner">
-                                              <div class="menu-title">
-                                                <a href="6-accessories.html" title="Accessories" class="img">
-                                                  Accessories
-                                                </a>
-                                              </div>
-                                              <ul>
-                                                <li class="clearfix">
-                                                  <a href="7-headphones.html" title="Headphones" class="img">
-                                                    Headphones
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="8-home-accessories.html" title="Home Accessories"
-                                                    class="img">
-                                                    Home Accessories
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="20-video-game.html" title="Video &amp; Game" class="img">
-                                                    Video &amp; Game
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="21-tablet.html" title="Tablet" class="img">
-                                                    Tablet
-                                                  </a>
-                                                </li>
-                                              </ul>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="mega-col col-md-3">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1589770641">
-                                          <div class="widget-subcategories">
-                                            <div class="widget-inner">
-                                              <div class="menu-title">
-                                                <a href="3-shop.html" title="Shop" class="img">
-                                                  Shop
-                                                </a>
-                                              </div>
-                                              <ul>
-                                                <li class="clearfix">
-                                                  <a href="4-computer-laptop.html" title="Computer &amp; Laptop"
-                                                    class="img">
-                                                    Computer &amp; Laptop
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="5-camera-photo.html" title="Camera &amp; Photo" class="img">
-                                                    Camera &amp; Photo
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="18-audio-home.html" title="Audio &amp; Home" class="img">
-                                                    Audio &amp; Home
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="19-smartphone-ipad.html" title="SmartPhone &amp; Ipad"
-                                                    class="img">
-                                                    SmartPhone &amp; Ipad
-                                                  </a>
-                                                </li>
-                                              </ul>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="mega-col col-md-3">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1589771470">
-                                          <div class="widget-subcategories">
-                                            <div class="widget-inner">
-                                              <div class="menu-title">
-                                                <a href="6-accessories.html" title="Accessories" class="img">
-                                                  Accessories
-                                                </a>
-                                              </div>
-                                              <ul>
-                                                <li class="clearfix">
-                                                  <a href="7-headphones.html" title="Headphones" class="img">
-                                                    Headphones
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="8-home-accessories.html" title="Home Accessories"
-                                                    class="img">
-                                                    Home Accessories
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="20-video-game.html" title="Video &amp; Game" class="img">
-                                                    Video &amp; Game
-                                                  </a>
-                                                </li>
-                                                <li class="clearfix">
-                                                  <a href="21-tablet.html" title="Tablet" class="img">
-                                                    Tablet
-                                                  </a>
-                                                </li>
-                                              </ul>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div class="row">
-                                    <div class="mega-col col-md-12">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1589773986">
-                                          <div class="widget-images block">
-                                            <div class="block_content clearfix">
-                                              <div class="images-list clearfix">
-                                                <div class="row">
-                                                  <div class="image-item col-md-2-4 col-xs-12">
-                                                    <a class="fancybox" rel="leogallery16"
-                                                      href="<?php echo get_template_directory_uri(); ?>/24-home_default/sony-e591-full-color.jpg">
-                                                      <img class="replace-2x img-fluid"
-                                                        src="<?php echo get_template_directory_uri(); ?>/24-home_default/sony-e591-full-color.jpg"
-                                                        alt="" />
-                                                    </a>
-                                                  </div>
-                                                  <div class="image-item col-md-2-4 col-xs-12">
-                                                    <a class="fancybox" rel="leogallery16"
-                                                      href="<?php echo get_template_directory_uri(); ?>/30-home_default/charging-cradle.jpg">
-                                                      <img class="replace-2x img-fluid"
-                                                        src="<?php echo get_template_directory_uri(); ?>/30-home_default/charging-cradle.jpg"
-                                                        alt="" />
-                                                    </a>
-                                                  </div>
-                                                  <div class="image-item col-md-2-4 col-xs-12">
-                                                    <a class="fancybox" rel="leogallery16"
-                                                      href="<?php echo get_template_directory_uri(); ?>/35-home_default/the-best-is-yet-to-come-framed-poster.jpg">
-                                                      <img class="replace-2x img-fluid"
-                                                        src="<?php echo get_template_directory_uri(); ?>/35-home_default/the-best-is-yet-to-come-framed-poster.jpg"
-                                                        alt="" />
-                                                    </a>
-                                                  </div>
-                                                  <div class="image-item col-md-2-4 col-xs-12">
-                                                    <a class="fancybox" rel="leogallery16"
-                                                      href="<?php echo get_template_directory_uri(); ?>/41-home_default/bluetooth-speaker-gk1.jpg">
-                                                      <img class="replace-2x img-fluid"
-                                                        src="<?php echo get_template_directory_uri(); ?>/41-home_default/bluetooth-speaker-gk1.jpg"
-                                                        alt="" />
-                                                    </a>
-                                                  </div>
-                                                  <div class="image-item col-md-2-4 col-xs-12">
-                                                    <a class="fancybox" rel="leogallery16"
-                                                      href="<?php echo get_template_directory_uri(); ?>/47-home_default/camera-logiti-s-l8910.jpg">
-                                                      <img class="replace-2x img-fluid"
-                                                        src="<?php echo get_template_directory_uri(); ?>/47-home_default/camera-logiti-s-l8910.jpg"
-                                                        alt="" />
-                                                    </a>
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
+
                             </li>
-                            <li data-menu-type="category" class="nav-item parent dropdown aligned-fullwidth">
-                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="3-shop.html"
-                                target="_self">
-                                <span class="menu-title">Page</span>
-                              </a>
-                              <b class="caret"></b>
-                              <div class="dropdown-sub dropdown-menu">
-                                <div class="dropdown-menu-inner">
-                                  <div class="row">
-                                    <div class="mega-col col-md-3">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1535465590">
-                                          <div class="widget-links">
-                                            <div class="menu-title">
-                                              Product Page Styles
-                                            </div>
-                                            <div class="widget-inner">
-                                              <div id="tabs884710618" class="panel-group">
-                                                <ul class="nav-links">
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-color74a3.html?layout=detail1522243737">Product
-                                                      thumbs
-                                                      bottom</a>
-                                                  </li>
 
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-color12ef.html?layout=detail1522239007">Product
-                                                      thumbs left</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-colord9ad.html?layout=detail1522261917">Product
-                                                      thumbs right</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-colord589.html?layout=detail1522248205">Product
-                                                      no thumbs</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-color50d7.html?layout=detail1522251988">Product
-                                                      no thumbs
-                                                      fullwidth</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-colore5d1.html?layout=detail1522243544">Product
-                                                      image
-                                                      gallery</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-colorc155.html?layout=detail1522263127">Product
-                                                      no thumbs
-                                                      center</a>
-                                                  </li>
-                                                </ul>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="mega-col col-md-3">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1533105344">
-                                          <div class="widget-links">
-                                            <div class="menu-title">
-                                              Product Category
-                                            </div>
-                                            <div class="widget-inner">
-                                              <div id="tabs54066214" class="panel-group">
-                                                <ul class="nav-links">
-                                                  <li>
-                                                    <a href="3-shop.html">Product category 1</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="3-shop.html">Product category 1</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="3-shop.html">Product category 1</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="6-accessories.html">Product category 2</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="9-technologies.html">Product category 3</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="4-computer-laptop.html">Product category 4</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="5-camera-photo.html">Product category 5</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="7-headphones.html">Product category 6</a>
-                                                  </li>
-                                                </ul>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="mega-col col-md-3">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1535467920">
-                                          <div class="widget-links">
-                                            <div class="menu-title">
-                                              Product Types
-                                            </div>
-                                            <div class="widget-inner">
-                                              <div id="tabs1608827509" class="panel-group">
-                                                <ul class="nav-links">
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-color.html#/1-size-s/8-color-white">Product
-                                                      - Count Down</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="camera-photo/2-9-charging-cradle.html#/1-size-s">Product -
-                                                      Pack of
-                                                      products</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-color.html#/1-size-s/8-color-white">Product
-                                                      - Size &amp;
-                                                      Color</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a
-                                                      href="technologies/5-19-camera-logiti-s-l8910.html#/19-dimension-40x60cm">Product
-                                                      - Variable
-                                                      Select</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="home-accessories/8-sony-srs-speaker.html">Product -
-                                                      Simple</a>
-                                                  </li>
-                                                </ul>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="mega-col col-md-3">
-                                      <div class="mega-col-inner">
-                                        <div class="leo-widget" data-id_widget="1533106678">
-                                          <div class="widget-links">
-                                            <div class="menu-title">
-                                              ShortCode
-                                            </div>
-                                            <div class="widget-inner">
-                                              <div id="tabs917059625" class="panel-group">
-                                                <ul class="nav-links">
-                                                  <li>
-                                                    <a
-                                                      href="computer-laptop/1-1-sony-e591-full-color.html#/1-size-s/8-color-white">Image
-                                                      Hotspot</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="contact-us.html">Contact</a>
-                                                  </li>
-
-                                                  <li>
-                                                    <a href="content/1-delivery.html">FAQ</a>
-                                                  </li>
-                                                </ul>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
                             <li data-menu-type="cms" class="nav-item parent dropdown">
-                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown"
-                                href="content/4-about-us.html" target="_self">
-                                <span class="menu-title">About</span>
+                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="#"
+                                target="_self">
+                                <span class="menu-title">Loja</span>
                               </a>
                               <b class="caret"></b>
                               <div class="dropdown-menu level1">
@@ -2310,31 +1663,35 @@
                                       <div class="inner">
                                         <ul>
                                           <li data-menu-type="cms" class="nav-item">
-                                            <a class="nav-link" href="content/1-delivery.html" target="_self">
-                                              <span class="menu-title">Delivery</span>
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">IPhone</span>
                                             </a>
                                           </li>
 
                                           <li data-menu-type="cms" class="nav-item">
-                                            <a class="nav-link" href="content/2-legal-notice.html" target="_self">
-                                              <span class="menu-title">Legal notice</span>
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">MacBook</span>
                                             </a>
                                           </li>
 
                                           <li data-menu-type="cms" class="nav-item">
-                                            <a class="nav-link" href="content/3-terms-and-conditions-of-use.html"
-                                              target="_self">
-                                              <span class="menu-title">Terms and conditions</span>
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">Apple Watch</span>
                                             </a>
                                           </li>
 
                                           <li data-menu-type="cms" class="nav-item">
-                                            <a class="nav-link" href="content/5-secure-payment.html" target="_self">
-                                              <span class="menu-title">Secure payment</span>
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">Acessórios</span>
+                                            </a>
+                                          </li>
+                                          <li data-menu-type="cms" class="nav-item">
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">IPad</span>
                                             </a>
                                           </li>
 
-                                          <li data-menu-type="category" class="nav-item parent dropdown-submenu">
+                                          <!-- <li data-menu-type="category" class="nav-item parent dropdown-submenu">
                                             <a class="nav-link dropdown-toggle" data-toggle="dropdown"
                                               href="7-headphones.html" target="_self">
                                               <span class="menu-title">Seasonings</span>
@@ -2371,13 +1728,8 @@
                                                 </div>
                                               </div>
                                             </div>
-                                          </li>
+                                          </li> -->
 
-                                          <li data-menu-type="controller" class="nav-item">
-                                            <a class="nav-link" href="supplier.html" target="_self">
-                                              <span class="menu-title">Supplier</span>
-                                            </a>
-                                          </li>
                                         </ul>
                                       </div>
                                     </div>
@@ -2385,19 +1737,107 @@
                                 </div>
                               </div>
                             </li>
+
+                            <li data-menu-type="cms" class="nav-item parent dropdown">
+                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="#"
+                                target="_self">
+                                <span class="menu-title">Sobre Nós</span>
+                              </a>
+                              <b class="caret"></b>
+                              <div class="dropdown-menu level1">
+                                <div class="dropdown-menu-inner">
+                                  <div class="row">
+                                    <div class="col-sm-12 mega-col" data-colwidth="12" data-type="menu">
+                                      <div class="inner">
+                                        <ul>
+                                          <li data-menu-type="cms" class="nav-item">
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">Sobre a Pentalobe</span>
+                                            </a>
+                                          </li>
+
+                                          <li data-menu-type="cms" class="nav-item">
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">Politica de privacidade</span>
+                                            </a>
+                                          </li>
+
+                                          <li data-menu-type="cms" class="nav-item">
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">Termos e condições</span>
+                                            </a>
+                                          </li>
+
+                                          <li data-menu-type="cms" class="nav-item">
+                                            <a class="nav-link" href="#" target="_self">
+                                              <span class="menu-title">Trocas e condições</span>
+                                            </a>
+                                          </li>
+
+                                          <!-- <li data-menu-type="category" class="nav-item parent dropdown-submenu">
+                                            <a class="nav-link dropdown-toggle" data-toggle="dropdown"
+                                              href="7-headphones.html" target="_self">
+                                              <span class="menu-title">Seasonings</span>
+                                            </a>
+                                            <b class="caret"></b>
+                                            <div class="dropdown-menu level2">
+                                              <div class="dropdown-menu-inner">
+                                                <div class="row">
+                                                  <div class="col-sm-12 mega-col" data-colwidth="12" data-type="menu">
+                                                    <div class="inner">
+                                                      <ul>
+                                                        <li data-menu-type="category" class="nav-item">
+                                                          <a class="nav-link" href="5-camera-photo.html" target="_self">
+                                                            <span class="menu-title">Spice
+                                                              Sets</span>
+                                                          </a>
+                                                        </li>
+
+                                                        <li data-menu-type="category" class="nav-item">
+                                                          <a class="nav-link" href="9-technologies.html" target="_self">
+                                                            <span class="menu-title">Coriander</span>
+                                                          </a>
+                                                        </li>
+
+                                                        <li data-menu-type="category" class="nav-item">
+                                                          <a class="nav-link" href="4-computer-laptop.html"
+                                                            target="_self">
+                                                            <span class="menu-title">Turmeric</span>
+                                                          </a>
+                                                        </li>
+                                                      </ul>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </li> -->
+
+                                        </ul>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </li>
+
                             <li data-menu-type="url" class="nav-item">
-                              <a class="nav-link has-category" href="blog.html" target="_self">
+                              <a class="nav-link has-category" href="#" target="_self">
                                 <span class="menu-title">Blog</span>
                               </a>
                             </li>
+
                             <li data-menu-type="controller" class="nav-item">
-                              <a class="nav-link has-category" href="contact-us.html" target="_self">
-                                <span class="menu-title">Contact</span>
+                              <a class="nav-link has-category" href="#" target="_self">
+                                <span class="menu-title">Contato</span>
                               </a>
                             </li>
+
                           </ul>
                         </div>
                       </nav>
+
+
                       <script type="text/javascript">
                       list_menu_tmp.id = "1667339054";
                       list_menu_tmp.type = "horizontal";
@@ -2413,7 +1853,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-6 col-sm-10 col-xs-10 col-sp-10 col-info no-padding ApColumn">
                     <!-- @file modules\appagebuilder\views\templates\hook\ApGeneral -->
                     <div class="block no-margin shipping ApRawHtml">
-                      <div class="text">Free Shipping</div>
+                      <div class="text">Calcule seu frete</div>
                     </div>
                   </div>
                 </div>
@@ -2432,8 +1872,8 @@
                 <span class="search-caption">Just start searching...</span>
                 <form method="get" class="form-search" action="http://rubiktheme.com/demo/at_dimita_demo/en/search">
                   <input type="hidden" name="controller" value="search" />
-                  <input class="search_query" type="text" name="s" value="" placeholder="Search our catalog" />
-                  <button class="search-button" type="submit">
+                  <input class="search_query" type="text" name="s" value="" placeholder="O que você procura?" />
+                  <button class=" search-button" type="submit">
                     <i class="pe-7s-search"></i>
                   </button>
                 </form>
@@ -2442,6 +1882,7 @@
             <!-- /Block search module TOP -->
           </div>
         </div>
+
       </div>
     </header>
 
