@@ -43,3 +43,33 @@
   transform: scale(1.3);
   color: #1b1b1b;
 }
+
+.btn-primary:hover {
+  transform: scale(1.1);
+  background-color: #1b1b1b;
+}
+
+.header-top .col-logo img {
+  max-width: 135px;
+}
+
+a#click_show_search {
+  display: none !important;
+}
+
+section#main {
+  margin-top: 50px;
+}
+
+#index .breadcrumb {
+  display: block !important;
+}
+
+@media screen and (max-width: 768px) {
+  #contact-form-box .page-content {
+    padding: 01.25rem 1.25rem;
+  }
+  .footer-top {
+    padding-top: 0;
+  }
+}
