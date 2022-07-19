@@ -22,19 +22,26 @@
     <div id="content-wrapper" class="col-lg-12 col-xs-12 js-content-wrapper">
       <section id="main">
         <section id="content" class="page-home">
+
           <!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
           <div class="row box-slideshow ApRow has-bg bg-boxed" style="background: no-repeat" data-bg_data=" no-repeat">
+
             <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-sp-12 ApColumn">
+
+
               <!-- @file modules\appagebuilder\views\templates\hook\ApSlideShow -->
               <div id="slideshow-form_1875799217242324" class="ApSlideShow">
+
                 <div class="bannercontainer banner-fullwidth" style="padding: 0; margin: 0">
+
                   <div class="iview iview-group-61c795d292925-3">
+
                     <!-- SLIDE IMAGE BEGIN -->
                     <div class="slide_config"
                       data-leo_image="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide1-h3-novo.jpg"
                       data-leo_pausetime="5000"
-                      data-leo_thumbnail="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide1-h3-novo.jpg"
+                      data-leo_thumbnail="<?php echo get_template_directory_uri(); ?>/themes/at_dimita/assets/img/modules/leoslideshow/slide-min1.png"
                       data-leo_background="image">
                       <div class="tp-caption medium_text_white_24" data-x="240" data-y="228" data-transition="fade">
                         <!-- LAYER TEXT BEGIN -->
@@ -263,6 +270,7 @@
               </div>
             </div>
           </div>
+
           <!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
           <div class="wrapper" style="background: #f5f5f5 no-repeat">
             <div class="container">
