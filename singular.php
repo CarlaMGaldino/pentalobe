@@ -1,6 +1,5 @@
-<?php 
-  get_header();
-?>
+<?php get_header(); ?>
+
 <div class="container" id="">
   <div class="row">
     <div id="content-wrapper" class="col-lg-12 col-xs-12 js-content-wrapper">
@@ -17,6 +16,5 @@
     </div>
   </div>
 </div>
-<?php
-  get_footer();
-?>
+
+<?php get_footer(); ?>
