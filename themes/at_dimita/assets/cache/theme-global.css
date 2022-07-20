@@ -37626,7 +37626,7 @@ body.layout-boxed-lg #header.navbar-fixed-top {
   text-align: center;
   position: fixed;
   cursor: pointer;
-  right: 20px;
+  left: 20px;
   bottom: 23px;
   z-index: 999;
   background: #f7931e;

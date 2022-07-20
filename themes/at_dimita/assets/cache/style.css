@@ -3,10 +3,6 @@
   background-color: #1b1b1b;
 }
 
-.block.contact-infor.ApRawHtml a {
-  color: #f7931e;
-}
-
 .box-testimonial.style-0
   .owl-item.active
   .item
@@ -61,8 +57,50 @@ section#main {
   margin-top: 50px;
 }
 
-#index .breadcrumb {
-  display: block !important;
+.banner-mobile {
+  display: none;
+}
+
+.cssload-piano {
+  display: none !important;
+}
+
+.block-social ul {
+  text-align: left;
+}
+
+.block.contact-infor.ApRawHtml a {
+  color: #fff;
+}
+
+.block.contact-infor.ApRawHtml a:hover {
+  color: #f7931e !important;
+}
+
+.block.ApRawHtml a img {
+  width: 96px;
+  margin-right: 10px;
+}
+
+.mapa-contato iframe {
+  border: none !important;
+}
+
+.botao-whatsapp {
+  position: fixed;
+  bottom: 89px;
+  right: 17px;
+  z-index: 100000;
+}
+
+.botao-whatsapp img {
+  width: 58px;
+}
+
+#back-top {
+  left: 20px !important;
+  right: auto;
+  bottom: 89px;
 }
 
 @media screen and (max-width: 768px) {
@@ -71,5 +109,51 @@ section#main {
   }
   .footer-top {
     padding-top: 0;
+  }
+
+  .breadcrumb > .container {
+    background: #fff;
+  }
+  .row.box-slideshow.ApRow.has-bg.bg-boxed {
+    display: none;
+  }
+  .banner-mobile {
+    background: #1b1b1b;
+    padding: 80px 10px;
+    margin-top: -83px;
+  }
+
+  .box-header-bottom.style-0 {
+    background-color: #f7931e;
+  }
+
+  .banner-mobile {
+    display: block;
+  }
+
+  .banner-mobile img {
+    width: 100%;
+  }
+
+  .banner-mobile__texto h2 {
+    color: #fff;
+    font-size: 35px;
+  }
+
+  .banner-mobile__texto p {
+    color: #fff;
+    font-size: 20px;
+  }
+
+  .banner-mobile .tp-caption.btn {
+    border: 1px solid #fff;
+    color: #fff;
+  }
+  a.btn-quero__vender.tp-caption.btn:hover {
+    background: #f7931e;
+  }
+
+  .box-header-bottom.style-0 .col-info .shipping.ApRawHtml {
+    display: none;
   }
 }

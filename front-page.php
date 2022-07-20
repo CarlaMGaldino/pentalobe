@@ -23,7 +23,7 @@
       <section id="main">
         <section id="content" class="page-home">
 
-          <!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
+          <!-- Banner Desktop -->
           <div class="row box-slideshow ApRow has-bg bg-boxed" style="background: no-repeat" data-bg_data=" no-repeat">
 
             <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
@@ -271,7 +271,26 @@
             </div>
           </div>
 
-          <!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
+          <!--Banner Mobile-->
+          <div class="banner-mobile">
+
+            <div class="banner-mobile__img">
+              <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner/slide3-h2.png"
+                alt="Banner principal mobile">
+            </div>
+
+            <div class="banner-mobile__texto">
+              <h2>Quer vender seu IPhone?</h2>
+              <p>Nós compramos, faça um orçamento</p>
+            </div>
+
+            <div>
+              <a class="btn-quero__vender tp-caption btn" href="#">Saiba mais</a>
+            </div>
+
+          </div>
+
+          <!--Top Produtos-->
           <div class="wrapper" style="background: #f5f5f5 no-repeat">
             <div class="container">
               <div class="row no-margin ApRow has-bg bg-fullwidth-container" style="">

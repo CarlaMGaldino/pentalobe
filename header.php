@@ -15,9 +15,13 @@
   <meta property="og:site_name" content="Pentalobe" />
   <meta property="og:type" content="website" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/vnd.microsoft.icon" href="https://rubiktheme.com/demo/at_dimita_demo/img/favicon.ico?1613756035" />
-  <link rel="shortcut icon" type="image/x-icon" href="https://rubiktheme.com/demo/at_dimita_demo/img/favicon.ico?1613756035" />
-  <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/themes/at_dimita/assets/cache/theme-global.css" type="text/css" media="all" />
+  <link rel="icon" type="image/vnd.microsoft.icon"
+    href="https://rubiktheme.com/demo/at_dimita_demo/img/favicon.ico?1613756035" />
+  <link rel="shortcut icon" type="image/x-icon"
+    href="https://rubiktheme.com/demo/at_dimita_demo/img/favicon.ico?1613756035" />
+  <link rel="stylesheet"
+    href="<?php echo get_stylesheet_directory_uri(); ?>/themes/at_dimita/assets/cache/theme-global.css" type="text/css"
+    media="all" />
   <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/themes/at_dimita/assets/cache/style.css">
 
   <script type="text/javascript">
@@ -1321,25 +1325,34 @@
                     <!-- @file modules\appagebuilder\views\templates\hook\ApGenCode -->
 
                     <a href="<?php echo get_permalink(get_page_by_path('Home')) ?>">
-                      <img class="logo img-fluid" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo/pentalobe.png" alt="Logo Pentalobe" /></a>
+                      <img class="logo img-fluid"
+                        src="<?php echo get_template_directory_uri(); ?>/assets/images/logo/pentalobe.png"
+                        alt="Logo Pentalobe" /></a>
                   </div>
                   <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
                   <div class="col-xl-6 col-lg-6 col-md-1 col-sm-1 col-xs-2 col-sp-2 col-search ApColumn">
                     <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
 
                     <div id="leo_search_block_top" class="search-widget block exclusive search-by-category">
-                      <a id="click_show_search" href="javascript:void(0)" data-toggle="dropdown" class="float-xs-right popup-title">
+                      <a id="click_show_search" href="javascript:void(0)" data-toggle="dropdown"
+                        class="float-xs-right popup-title">
                         <i class="pe-7s-search"></i>
                       </a>
-                      <form method="get" action="https://rubiktheme.com/demo/at_dimita_demo/en/index.php?controller=productsearch" id="leosearchtopbox" data-label-suggestion="Suggestion" data-search-for="Search for" data-in-category="in category" data-products-for="Products For" data-label-products="Products" data-view-all="View all">
+                      <form method="get"
+                        action="https://rubiktheme.com/demo/at_dimita_demo/en/index.php?controller=productsearch"
+                        id="leosearchtopbox" data-label-suggestion="Suggestion" data-search-for="Search for"
+                        data-in-category="in category" data-products-for="Products For" data-label-products="Products"
+                        data-view-all="View all">
                         <input type="hidden" name="fc" value="module" />
                         <input type="hidden" name="module" value="leoproductsearch" />
                         <input type="hidden" name="controller" value="productsearch" />
-                        <input type="hidden" name="leoproductsearch_static_token" value="eea65250656b3ff1e7f979b1248d0132" />
+                        <input type="hidden" name="leoproductsearch_static_token"
+                          value="eea65250656b3ff1e7f979b1248d0132" />
                         <div class="block_content clearfix leoproductsearch-content">
                           <div class="list-cate-wrapper">
                             <input id="leosearchtop-cate-id" name="cate" value="" type="hidden" />
-                            <a href="#" id="dropdownListCateTop" class="select-title" rel="nofollow" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a href="#" id="dropdownListCateTop" class="select-title" rel="nofollow"
+                              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                               <span>Todas as categorias</span>
                               <i class="fa fa-angle-down"></i>
                             </a>
@@ -1348,48 +1361,25 @@
                                 as categorias</a>
                               <a href="#" data-cate-id="2" data-cate-name="Home" class="cate-item cate-level-1">Home</a>
 
-                              <a href="#" data-cate-id="3" data-cate-name="Shop" class="cate-item cate-level-2">Iphone</a>
-                              <a href="#" data-cate-id="4" data-cate-name="Computer &amp; Laptop" class="cate-item cate-level-3">MacBook</a>
-                              <a href="#" data-cate-id="10" data-cate-name="Recorders" class="cate-item cate-level-4">Apple Watch</a>
-                              <a href="#" data-cate-id="11" data-cate-name="DVD Players &amp; Recorders" class="cate-item cate-level-4">Acessórios</a>
-                              <a href="#" data-cate-id="12" data-cate-name="DVD-VCR Combos" class="cate-item cate-level-4">Ipad</a>
-                              <!-- <a href="#" data-cate-id="13" data-cate-name="Home Theater Systems"
-                                class="cate-item cate-level-4">----Home Theater Systems</a>
-                              <a href="#" data-cate-id="5" data-cate-name="Camera &amp; Photo"
-                                class="cate-item cate-level-3">---Camera &amp; Photo</a>
-                              <a href="#" data-cate-id="14" data-cate-name="Bags &amp; Cases"
-                                class="cate-item cate-level-4">----Bags &amp; Cases</a>
-                              <a href="#" data-cate-id="15" data-cate-name="Binoculars &amp; Scopes"
-                                class="cate-item cate-level-4">----Binoculars &amp; Scopes</a>
-                              <a href="#" data-cate-id="16" data-cate-name="Digital Cameras"
-                                class="cate-item cate-level-4">----Digital Cameras</a>
-                              <a href="#" data-cate-id="17" data-cate-name="Flashes"
-                                class="cate-item cate-level-4">----Flashes</a>
-                              <a href="#" data-cate-id="18" data-cate-name="Audio &amp; Home"
-                                class="cate-item cate-level-3">---Audio &amp; Home</a>
-                              <a href="#" data-cate-id="19" data-cate-name="SmartPhone &amp; Ipad"
-                                class="cate-item cate-level-3">---SmartPhone &amp; Ipad</a>
-                              <a href="#" data-cate-id="6" data-cate-name="Accessories"
-                                class="cate-item cate-level-2">--Accessories</a>
-                              <a href="#" data-cate-id="7" data-cate-name="Headphones"
-                                class="cate-item cate-level-3">---Headphones</a>
-                              <a href="#" data-cate-id="8" data-cate-name="Home Accessories"
-                                class="cate-item cate-level-3">---Home Accessories</a>
-                              <a href="#" data-cate-id="20" data-cate-name="Video &amp; Game"
-                                class="cate-item cate-level-3">---Video &amp; Game</a>
-                              <a href="#" data-cate-id="21" data-cate-name="Tablet"
-                                class="cate-item cate-level-3">---Tablet</a>
-                              <a href="#" data-cate-id="9" data-cate-name="Technologies"
-                                class="cate-item cate-level-2">--Technologies</a> -->
+                              <a href="#" data-cate-id="3" data-cate-name="Shop"
+                                class="cate-item cate-level-2">Iphone</a>
+                              <a href="#" data-cate-id="4" data-cate-name="Computer &amp; Laptop"
+                                class="cate-item cate-level-3">MacBook</a>
+                              <a href="#" data-cate-id="10" data-cate-name="Recorders"
+                                class="cate-item cate-level-4">Apple Watch</a>
+                              <a href="#" data-cate-id="11" data-cate-name="DVD Players &amp; Recorders"
+                                class="cate-item cate-level-4">Acessórios</a>
+                              <a href="#" data-cate-id="12" data-cate-name="DVD-VCR Combos"
+                                class="cate-item cate-level-4">Ipad</a>
                             </div>
                           </div>
 
                           <div class="leoproductsearch-result">
-                            <div class="leoproductsearch-loading cssload-container">
-                              <div class="cssload-speeding-wheel"></div>
-                            </div>
-                            <input class="search_query form-control grey" type="text" id="leo_search_query_top" name="search_query" value="" placeholder="Search our catalog" />
-                            <button type="submit" id="leo_search_top_button" class="btn btn-default button button-small">
+
+                            <input class="search_query form-control grey" type="text" id="leo_search_query_top"
+                              name="search_query" value="" placeholder="Search our catalog" />
+                            <button type="submit" id="leo_search_top_button"
+                              class="btn btn-default button button-small">
                               <i class="pe-7s-search"></i>
                             </button>
                             <div class="ac_results lps_results"></div>
@@ -1409,7 +1399,9 @@
                     <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
                     <div class="dropdown">
                       <div class="ap-quick-login js-dropdown popup-over">
-                        <a href="javascript:void(0)" class="leo-quickloginleo-dropdown dropdown-toggle popup-title" data-enable-sociallogin="" data-type="dropdown" data-layout="login" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Quick Login" rel="nofollow">
+                        <a href="javascript:void(0)" class="leo-quickloginleo-dropdown dropdown-toggle popup-title"
+                          data-enable-sociallogin="" data-type="dropdown" data-layout="login" data-toggle="dropdown"
+                          aria-haspopup="true" aria-expanded="false" title="Quick Login" rel="nofollow">
                           <i class="icon-user"></i>
                           <span class="text-title hidden-xl-down">Login</span>
                         </a>
@@ -1428,10 +1420,12 @@
                                 <div class="form-group lql-form-mesg has-success"></div>
                                 <div class="form-group lql-form-mesg has-danger"></div>
                                 <div class="form-group lql-form-content-element">
-                                  <input type="email" class="form-control lql-email-login" name="lql-email-login" required="" placeholder="Email Address" />
+                                  <input type="email" class="form-control lql-email-login" name="lql-email-login"
+                                    required="" placeholder="Email Address" />
                                 </div>
                                 <div class="form-group lql-form-content-element">
-                                  <input type="password" class="form-control lql-pass-login" name="lql-pass-login" required="" placeholder="Password" />
+                                  <input type="password" class="form-control lql-pass-login" name="lql-pass-login"
+                                    required="" placeholder="Password" />
                                 </div>
                                 <div class="form-group row lql-form-content-element">
                                   <div class="col-xs-6">
@@ -1443,7 +1437,8 @@
                                   </div>
                                 </div>
                                 <div class="form-group text-right">
-                                  <button type="submit" class="form-control-submit lql-form-bt lql-login-bt btn btn-primary">
+                                  <button type="submit"
+                                    class="form-control-submit lql-form-bt lql-login-bt btn btn-primary">
                                     <span class="leoquicklogin-loading leoquicklogin-cssload-speeding-wheel"></span>
                                     <i class="leoquicklogin-icon leoquicklogin-success-icon material-icons">&#xE876;</i>
                                     <i class="leoquicklogin-icon leoquicklogin-fail-icon material-icons">&#xE033;</i>
@@ -1462,12 +1457,15 @@
                                   <div class="form-group lql-form-mesg has-success"></div>
                                   <div class="form-group lql-form-mesg has-danger"></div>
                                   <div class="form-group lql-form-content-element">
-                                    <input type="email" class="form-control lql-email-reset" name="lql-email-reset" required="" placeholder="Email Address" />
+                                    <input type="email" class="form-control lql-email-reset" name="lql-email-reset"
+                                      required="" placeholder="Email Address" />
                                   </div>
                                   <div class="form-group">
-                                    <button type="submit" class="form-control-submit lql-form-bt leoquicklogin-reset-pass-bt btn btn-primary">
+                                    <button type="submit"
+                                      class="form-control-submit lql-form-bt leoquicklogin-reset-pass-bt btn btn-primary">
                                       <span class="leoquicklogin-loading leoquicklogin-cssload-speeding-wheel"></span>
-                                      <i class="leoquicklogin-icon leoquicklogin-success-icon material-icons">&#xE876;</i>
+                                      <i
+                                        class="leoquicklogin-icon leoquicklogin-success-icon material-icons">&#xE876;</i>
                                       <i class="leoquicklogin-icon leoquicklogin-fail-icon material-icons">&#xE033;</i>
                                       <span class="lql-bt-txt">
                                         Reset Password
@@ -1485,19 +1483,24 @@
                                 <div class="form-group lql-form-mesg has-success"></div>
                                 <div class="form-group lql-form-mesg has-danger"></div>
                                 <div class="form-group lql-form-content-element">
-                                  <input type="text" class="form-control lql-register-firstname" name="lql-register-firstname" required="" placeholder="Nome" />
+                                  <input type="text" class="form-control lql-register-firstname"
+                                    name="lql-register-firstname" required="" placeholder="Nome" />
                                 </div>
                                 <div class="form-group lql-form-content-element">
-                                  <input type="text" class="form-control lql-register-lastname" name="lql-register-lastname" required="" placeholder="Sobrenome" />
+                                  <input type="text" class="form-control lql-register-lastname"
+                                    name="lql-register-lastname" required="" placeholder="Sobrenome" />
                                 </div>
                                 <div class="form-group lql-form-content-element">
-                                  <input type="email" class="form-control lql-register-email" name="lql-register-email" required="" placeholder="Email" />
+                                  <input type="email" class="form-control lql-register-email" name="lql-register-email"
+                                    required="" placeholder="Email" />
                                 </div>
                                 <div class="form-group lql-form-content-element">
-                                  <input type="password" class="form-control lql-register-pass" name="lql-register-pass" required="" placeholder="Senha" />
+                                  <input type="password" class="form-control lql-register-pass" name="lql-register-pass"
+                                    required="" placeholder="Senha" />
                                 </div>
                                 <div class="form-group text-right">
-                                  <button type="submit" class="form-control-submit lql-form-bt lql-register-bt btn btn-primary">
+                                  <button type="submit"
+                                    class="form-control-submit lql-form-bt lql-register-bt btn btn-primary">
                                     <span class="leoquicklogin-loading leoquicklogin-cssload-speeding-wheel"></span>
                                     <i class="leoquicklogin-icon leoquicklogin-success-icon material-icons">&#xE876;</i>
                                     <i class="leoquicklogin-icon leoquicklogin-fail-icon material-icons">&#xE033;</i>
@@ -1552,7 +1555,8 @@
                     </ul>
                     <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
                     <div id="cart-block">
-                      <div class="blockcart cart-preview inactive" data-refresh-url="//rubiktheme.com/demo/at_dimita_demo/en/module/ps_shoppingcart/ajax">
+                      <div class="blockcart cart-preview inactive"
+                        data-refresh-url="//rubiktheme.com/demo/at_dimita_demo/en/module/ps_shoppingcart/ajax">
                         <div class="header">
                           <span class="title_cart">Cart</span>
                           <i class="icon_cart_alt"></i>
@@ -1583,11 +1587,13 @@
                     <!-- @file modules\appagebuilder\views\templates\hook\ApSlideShow -->
                     <div id="memgamenu-form_1667339054" class="ApMegamenu">
 
-                      <nav data-megamenu-id="1667339054" class="leo-megamenu cavas_menu navbar navbar-default enable-canvas" role="navigation">
+                      <nav data-megamenu-id="1667339054"
+                        class="leo-megamenu cavas_menu navbar navbar-default enable-canvas" role="navigation">
 
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="navbar-header">
-                          <button type="button" class="navbar-toggler hidden-lg-up" data-toggle="collapse" data-target=".megamenu-off-canvas-1667339054">
+                          <button type="button" class="navbar-toggler hidden-lg-up" data-toggle="collapse"
+                            data-target=".megamenu-off-canvas-1667339054">
                             <span class="sr-only">Toggle navigation</span>
                             &#9776;
                           </button>
@@ -1595,12 +1601,14 @@
 
                         <!--MENU NAVEGAÇÃO-->
                         <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="leo-top-menu collapse navbar-toggleable-md megamenu-off-canvas megamenu-off-canvas-1667339054">
+                        <div
+                          class="leo-top-menu collapse navbar-toggleable-md megamenu-off-canvas megamenu-off-canvas-1667339054">
 
                           <ul class="nav navbar-nav megamenu horizontal">
 
                             <li data-menu-type="controller" class="nav-item parent dropdown">
-                              <a class="nav-link" data-toggle="dropdown" href="<?php echo get_permalink(get_page_by_path('Home')) ?>" target="_self">
+                              <a class="nav-link" data-toggle="dropdown"
+                                href="<?php echo get_permalink(get_page_by_path('Home')) ?>" target="_self">
                                 <span class="menu-title">Home</span>
                               </a>
                             </li>
@@ -1613,7 +1621,8 @@
                             </li>
 
                             <li data-menu-type="cms" class="nav-item parent dropdown">
-                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="#" target="_self">
+                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="#"
+                                target="_self">
                                 <span class="menu-title">Loja</span>
                               </a>
                               <b class="caret"></b>
@@ -1700,7 +1709,8 @@
                             </li>
 
                             <li data-menu-type="cms" class="nav-item parent dropdown">
-                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="#" target="_self">
+                              <a class="nav-link dropdown-toggle has-category" data-toggle="dropdown" href="#"
+                                target="_self">
                                 <span class="menu-title">Sobre Nós</span>
                               </a>
                               <b class="caret"></b>
@@ -1820,8 +1830,10 @@
               </div>
             </div>
             <!-- Block search module TOP -->
-            <div id="search_widget" class="search-widget" data-search-controller-url="//rubiktheme.com/demo/at_dimita_demo/en/search">
-              <a id="click_show_search" href="javascript:void(0)" data-toggle="dropdown" class="float-xs-right popup-title">
+            <div id="search_widget" class="search-widget"
+              data-search-controller-url="//rubiktheme.com/demo/at_dimita_demo/en/search">
+              <a id="click_show_search" href="javascript:void(0)" data-toggle="dropdown"
+                class="float-xs-right popup-title">
                 <i class="pe-7s-search"></i>
               </a>
               <span class="close-overlay"><i class="material-icons">&#xE5CD;</i></span>
