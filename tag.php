@@ -1,7 +1,10 @@
 <?php get_header(); ?>
 
-<section id="wrapper">
+<?php 
+  $current_tag = single_tag_title( "", false ); 
+?>
 
+<section id="wrapper">
   <nav data-depth="2" class="breadcrumb hidden-sm-down">
     <div class="container">
       <div class="box-breadcrumb">
@@ -15,34 +18,20 @@
         </ol>
       </div>
     </div>
-
     <div class=" category-cover hidden-sm-down">
       <img src="../themes/at_dimita/assets/img/bg-breadcrumb.jpg" class="img-fluid" alt="Breadcrumb image">
     </div>
   </nav>
-
-
   <div class="container" id="">
-
     <div class="row">
-
-
-
       <div id="content-wrapper" class="js-content-wrapper right-column col-xs-12 col-sm-12 col-md-8 col-lg-9">
-
-
         <section id="main">
-
           <div id="blog-listing" class="blogs-container box">
-            <h1 class="section-title blog-lastest-title">Posts recentes</h1>
-
+            <h1 class="section-title blog-lastest-title">Busca por <?php echo $current_tag; ?></h1>
             <div class="inner">
               <div class="leading-blog">
-
                 <div class="row">
-
                   <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-
                   <?php 
                     $author_post = ucfirst(get_the_author());
                     $comments_number = get_comments_number();
@@ -150,32 +139,45 @@
 
                 </div>
               </div>
-              <?php 
-                $previous_pagination_url = get_previous_posts_page_link();
-                $next_pagination_url = get_next_posts_page_link();
-                
-              ?>
-
 
               <div class="top-pagination-content clearfix bottom-line">
-
-                <?php get_template_part( 'template-parts/pagination' ); ?>
-
+                <nav class="pagination row">
+                  <div class="col-xs-12 col-md-6 col-lg-4 text-md-left text-xs-center showing">
+                    Showing 1 - 6 of 7 items
+                  </div>
+                  <div id="pagination" class="col-xs-12 col-md-6 col-lg-8">
+                    <ul class="page-list clearfix text-md-right text-xs-center">
+                      <li id="pagination_previous">
+                        <a class="previous disabled" rel="prev" href="#">
+                          <i class="fa fa-angle-left"></i>
+                          <span>Previous</span>
+                        </a>
+                      </li>
+                      <li class="current">
+                        <a href="blog.html" class="disabled">
+                          1
+                        </a>
+                      </li>
+                      <li>
+                        <a href="blog905b.html?p=2">
+                          2
+                        </a>
+                      </li>
+                      <li id="pagination_next">
+                        <a class="next" rel="next" href="blog905b.html?p=2">
+                          <span>Next</span>
+                          <i class="fa fa-angle-right"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </nav>
               </div>
-
-
             </div>
           </div>
         </section>
-
-
       </div>
-
-
-
       <div id="right-column" class="sidebar col-xs-12 col-sm-12 col-md-4 col-lg-3">
-
-
         <div class="block-categories block block-highlighted">
           <h4 class="title_block"><a href="9-technologies.html">Technologies</a></h4>
           <div class="block_content">
@@ -204,7 +206,6 @@
           </div>
         </div>
         <!-- /Block categories module -->
-
         <section id="blogRecentBlog" class="block leo-block-sidebar hidden-sm-down">
           <h4 class='title_block'><a href="#">Recent Articles</a></h4>
           <div class="block_content products-block">
@@ -278,10 +279,12 @@
             </ul>
           </div>
         </section>
-
         <section id="tags_blog_block_left" class="block leo-blog-tags hidden-sm-down">
           <h4 class='title_block'><a href="#">Tags Post</a></h4>
           <div class="block_content clearfix">
+
+
+
             <a href="blog166d.html?tag=leotheme">leotheme</a>
             <a href="blog5cce.html?tag=prestashop">prestashop</a>
             <a href="blogb063.html?tag=theme">theme</a>
@@ -290,24 +293,9 @@
             <a href="blogfa1b.html?tag=template">template</a>
           </div>
         </section>
-
       </div>
-
     </div>
   </div>
-
 </section>
-
-<script>
-var paginationPrevious = document.querySelector('.nav-prev-text');
-var paginationNext = document.querySelector('.next.page-numbers');
-var filhoPaginationPrevious = document.querySelector('.nav-prev-text span');
-var filhoPaginationNext = document.querySelector('.next.page-numbers span');
-paginationPrevious.removeChild(filhoPaginationPrevious);
-paginationNext.removeChild(filhoPaginationNext);
-
-var PaginationMaisRecentes = document.querySelector('.nav-prev-text');
-PaginationMaisRecentes.style.display = 'none';
-</script>
 
 <?php get_footer(); ?>
