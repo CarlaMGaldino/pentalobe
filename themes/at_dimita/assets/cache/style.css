@@ -103,6 +103,17 @@ section#main {
   bottom: 89px;
 }
 
+.pagination .current {
+  color: #f7931e;
+  font-weight: 400;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  border: 1px solid #f7931e;
+  text-align: center;
+}
+
 @media screen and (max-width: 768px) {
   #contact-form-box .page-content {
     padding: 01.25rem 1.25rem;
